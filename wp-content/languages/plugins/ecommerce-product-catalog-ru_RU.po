@@ -1,0 +1,3734 @@
+# Translation of Plugins - eCommerce Product Catalog Plugin for WordPress - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - eCommerce Product Catalog Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-14 07:26:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - eCommerce Product Catalog Plugin for WordPress - Stable (latest release)\n"
+
+#: ext-comp/elementor/show_catalog_widget.php:93
+msgid "Info"
+msgstr "Информация"
+
+#: ext-comp/elementor/show_catalog_widget.php:103
+msgid "By default it shows the main catalog page content."
+msgstr "По умолчанию здесь отображено содержимое главной страницы каталога"
+
+#: modules/cart/includes/shopping-settings.php:130
+msgid "Thank You"
+msgstr "Спасибо"
+
+#: modules/cart/includes/shopping-settings.php:108
+msgid "Cart"
+msgstr "Корзина"
+
+#: functions/support.php:83
+msgid "More styling"
+msgstr "Больше стилей"
+
+#: functions/support.php:79
+msgid "Product tags"
+msgstr "Тэги продукта"
+
+#: functions/support.php:80
+msgid "Product tags filter"
+msgstr "Фильтровать продукты по тегу"
+
+#: functions/support.php:82
+msgid "Responsive sidebar"
+msgstr "Адаптивная панель виджетов"
+
+#: functions/support.php:70
+msgid "Disabled default image"
+msgstr "Изображение по умолчанию отключено"
+
+#: functions/support.php:69
+msgid "Category template"
+msgstr "Категория шаблона"
+
+#: includes/tracking.php:384
+msgid "What could we do better?"
+msgstr "Что еще мы можем сделать лучше?"
+
+#: includes/activation-config.php:187 modules/cart/includes/cart-form.php:216
+#: modules/cart/includes/cart/ic-cart.php:56 modules/quote-cart/index.php:188
+msgid "Product name"
+msgstr "Название товара"
+
+#: modules/cart/functions/activation.php:21
+msgid "Customer"
+msgstr "Клиент"
+
+#: modules/cart/index.php:70
+msgid "Purchase Total"
+msgstr "Всего покупок"
+
+#: modules/cart/includes/variations/variations-meta.php:46
+msgid "Price mod"
+msgstr "Мод цены"
+
+#: modules/cart/includes/cart/cart-info.php:67
+msgid "Added! %sSee your cart%s."
+msgstr "Товар добавлен в корзину! %sСм. корзину%s."
+
+#: modules/cart/includes/variations/variations-selectors.php:92
+msgid "Select"
+msgstr "Выбор"
+
+#: modules/cart/functions/shortcodes.php:66
+msgid "Please choose product variations."
+msgstr "Пожалуйста, выберите вариации продукта"
+
+#: modules/cart/includes/cart/ic-cart.php:111
+msgid "No products. <a href=\"%s\">Go back</a> and choose some."
+msgstr "В корзине пусто. <a href=\"%s\">Вернуться назад</a> и выбрать что-нибудь."
+
+#: modules/cart/includes/cart/ic-cart.php:280
+msgid "Total GROSS"
+msgstr "Сумма ВСЕГО:"
+
+#: modules/cart/includes/tax.php:107
+msgid "VAT"
+msgstr "НДС"
+
+#: modules/cart/includes/cart/ic-cart.php:250
+msgid "Total NET"
+msgstr "Сумма (без налога)"
+
+#: modules/cart/includes/cart/ic-cart.php:65
+#: modules/cart/includes/cart/ic-cart.php:248
+msgid "Total"
+msgstr "Итого"
+
+#: modules/cart/includes/cart/ic-cart.php:63
+msgid "Unit Price"
+msgstr "Цена единицы"
+
+#: modules/cart/functions/shortcodes.php:63
+msgid "New quantity values saved."
+msgstr "Заказ сохранен с новыми данными"
+
+#: includes/welcome/mode-selected.php:86 includes/welcome/new.php:141
+#: includes/welcome/start.php:102
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: modules/cart/includes/shopping-settings.php:170
+msgid "Disable Order Registration"
+msgstr "Отключить регистрацию Заказов"
+
+#: modules/cart/includes/orders/includes/save-order.php:201
+msgid "Your Orders"
+msgstr "Ваши Заказы"
+
+#: modules/cart/includes/orders/includes/save-order.php:148
+msgid "You don't have any completed orders yet."
+msgstr "У Вас еще нет завершенных заказов."
+
+#: modules/cart/includes/orders/includes/register-digital-orders.php:665
+msgid "Digital order submitted."
+msgstr "Электронный заказ подтвержден."
+
+#: modules/cart/includes/orders/includes/register-digital-orders.php:453
+msgid "Order Total"
+msgstr "Всего Заказов"
+
+#: modules/cart/includes/orders/includes/register-digital-orders.php:291
+#: modules/cart/includes/orders/includes/register-digital-orders.php:293
+#: modules/cart/includes/orders/index.php:53
+#: modules/cart/includes/orders/index.php:57
+msgid "Choose product from catalog"
+msgstr "Выберите продукт из каталога"
+
+#: modules/cart/includes/orders/includes/register-digital-orders.php:152
+msgid "Currency"
+msgstr "Валюта"
+
+#: modules/cart/includes/orders/includes/register-digital-orders.php:147
+msgid "Transaction ID"
+msgstr "ID транзакции"
+
+#: modules/cart/includes/orders/includes/register-digital-orders.php:40
+msgid "Edit Order"
+msgstr "Изменить заказ"
+
+#: modules/cart/includes/orders/includes/digital-order-columns.php:26
+msgid "Status"
+msgstr "Статус"
+
+#: modules/cart/includes/orders/functions/functions.php:18
+msgid "Pending"
+msgstr "Ожидает"
+
+#: modules/cart/includes/customers/includes/transactions/transactions-client-list.php:26
+msgid "Total Spendings"
+msgstr "Всего потрачено"
+
+#: modules/cart/includes/customers/includes/transactions/transactions-client-list.php:25
+#: modules/cart/includes/orders/includes/register-digital-orders.php:36
+#: modules/cart/includes/orders/includes/save-order.php:154
+#: modules/cart/includes/shopping-settings.php:167
+msgid "Orders"
+msgstr "Заказы"
+
+#: modules/cart/includes/customers/includes/digital-customer.php:61
+#: modules/cart/includes/customers/includes/transactions/customer-panel.php:51
+#: modules/cart/includes/customers/includes/transactions/transactions-customer.php:135
+msgid "Login"
+msgstr "Авторизация"
+
+#: modules/cart/includes/customers/includes/digital-customer.php:37
+#: modules/cart/includes/customers/includes/digital-customer.php:68
+#: modules/cart/includes/customers/includes/transactions/customer-panel.php:73
+#: modules/cart/includes/customers/includes/transactions/transactions-customer.php:136
+msgid "Password"
+msgstr "Пароль"
+
+#: modules/cart/includes/customers/includes/digital-client-list.php:24
+msgid "Customer Name"
+msgstr "Имя заказчика"
+
+#: modules/cart/includes/cart-customer.php:86
+#: modules/cart/includes/shopping-cart.php:108
+msgid "Restore Previous Cart"
+msgstr "Отменить очистку корзины"
+
+#: modules/cart/includes/shopping-settings.php:292
+msgid "Place Order"
+msgstr "Размещение заказа"
+
+#: modules/cart/includes/shopping-settings.php:62
+msgid "Order details"
+msgstr "Информация о заказе"
+
+#: modules/cart/includes/shopping-settings.php:61
+msgid "Thank you for your order."
+msgstr "Спасибо за Ваш заказ"
+
+#: modules/cart/includes/cart-form.php:223
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: modules/cart/ext/formbuilder/index.php:700
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+#: modules/cart/ext/formbuilder/index.php:699
+msgid "Zambia"
+msgstr "Замбия"
+
+#: modules/cart/ext/formbuilder/index.php:698
+msgid "Yemen"
+msgstr "Йемен"
+
+#: modules/cart/ext/formbuilder/index.php:696
+msgid "Western Sahara"
+msgstr "Западная Сахара"
+
+#: modules/cart/ext/formbuilder/index.php:693
+msgid "Virgin Islands (British)"
+msgstr "Британские Виргинские острова"
+
+#: modules/cart/ext/formbuilder/index.php:692
+msgid "Vietnam"
+msgstr "Вьетнам"
+
+#: modules/cart/ext/formbuilder/index.php:691
+msgid "Venezuela"
+msgstr "Венесуэла"
+
+#: modules/cart/ext/formbuilder/index.php:690
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: modules/cart/ext/formbuilder/index.php:689
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+#: modules/cart/ext/formbuilder/index.php:687
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: modules/cart/ext/formbuilder/index.php:686
+msgid "United Arab Emirates"
+msgstr "Объединённые Арабские Эмираты"
+
+#: modules/cart/ext/formbuilder/index.php:685
+msgid "Ukraine"
+msgstr "Украина"
+
+#: modules/cart/ext/formbuilder/index.php:684
+msgid "Uganda"
+msgstr "Уганда"
+
+#: modules/cart/ext/formbuilder/index.php:683
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+#: modules/cart/ext/formbuilder/index.php:681
+msgid "Turkmenistan"
+msgstr "Туркменистан"
+
+#: modules/cart/ext/formbuilder/index.php:680
+msgid "Turkey"
+msgstr "Турция"
+
+#: modules/cart/ext/formbuilder/index.php:679
+msgid "Tunisia"
+msgstr "Тунис"
+
+#: modules/cart/ext/formbuilder/index.php:678
+msgid "Trinidad and Tobago"
+msgstr "Тринидад и Тобаго"
+
+#: modules/cart/ext/formbuilder/index.php:676
+msgid "Tonga"
+msgstr "Тонга"
+
+#: modules/cart/ext/formbuilder/index.php:675
+msgid "Tokelau"
+msgstr "Токелау"
+
+#: modules/cart/ext/formbuilder/index.php:674
+msgid "Togo"
+msgstr "Того"
+
+#: modules/cart/ext/formbuilder/index.php:673
+msgid "Tanzania"
+msgstr "Танзания"
+
+#: modules/cart/ext/formbuilder/index.php:672
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+#: modules/cart/ext/formbuilder/index.php:671
+msgid "Taiwan"
+msgstr "Тайвань"
+
+#: modules/cart/ext/formbuilder/index.php:669
+msgid "Switzerland"
+msgstr "Швейцария"
+
+#: modules/cart/ext/formbuilder/index.php:668
+msgid "Sweden"
+msgstr "Швеция"
+
+#: modules/cart/ext/formbuilder/index.php:667
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+#: modules/cart/ext/formbuilder/index.php:665
+msgid "Suriname"
+msgstr "Суринам"
+
+#: modules/cart/ext/formbuilder/index.php:664
+msgid "Sudan"
+msgstr "Судан"
+
+#: modules/cart/ext/formbuilder/index.php:663
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+#: modules/cart/ext/formbuilder/index.php:662
+msgid "Spain"
+msgstr "Испания"
+
+#: modules/cart/ext/formbuilder/index.php:661
+msgid "South Korea"
+msgstr "Южная Корея"
+
+#: modules/cart/ext/formbuilder/index.php:659
+msgid "South Africa"
+msgstr "Южная Африка"
+
+#: modules/cart/ext/formbuilder/index.php:658
+msgid "Somalia"
+msgstr "Сомали"
+
+#: modules/cart/ext/formbuilder/index.php:657
+msgid "Solomon Islands"
+msgstr "Соломоновы Острова"
+
+#: modules/cart/ext/formbuilder/index.php:656
+msgid "Slovenia"
+msgstr "Словения"
+
+#: modules/cart/ext/formbuilder/index.php:654
+msgid "Singapore"
+msgstr "Сингапур"
+
+#: modules/cart/ext/formbuilder/index.php:653
+msgid "Sierra Leone"
+msgstr "Сьерра-Леоне"
+
+#: modules/cart/ext/formbuilder/index.php:652
+msgid "Seychelles"
+msgstr "Сейшельские Острова"
+
+#: modules/cart/ext/formbuilder/index.php:651
+msgid "Serbia"
+msgstr "Сербия"
+
+#: modules/cart/ext/formbuilder/index.php:650
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: modules/cart/ext/formbuilder/index.php:649
+msgid "Saudi Arabia"
+msgstr "Саудовская Аравия"
+
+#: modules/cart/ext/formbuilder/index.php:647
+msgid "San Marino"
+msgstr "Сан-Марино"
+
+#: modules/cart/ext/formbuilder/index.php:646
+msgid "Saint Vincent and the Grenadines"
+msgstr "Сент-Винсент и Гренадины"
+
+#: modules/cart/ext/formbuilder/index.php:645
+msgid "Saint Pierre and Miquelon"
+msgstr "Сен-Пьер и Микелон"
+
+#: modules/cart/ext/formbuilder/index.php:644
+msgid "Saint Lucia"
+msgstr "Сент-Люсия"
+
+#: modules/cart/ext/formbuilder/index.php:643
+msgid "Saint Kitts and Nevis"
+msgstr "Сент-Китс и Невис"
+
+#: modules/cart/ext/formbuilder/index.php:642
+msgid "Saint Helena"
+msgstr "Остров Святой Елены"
+
+#: modules/cart/ext/formbuilder/index.php:641
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: modules/cart/ext/formbuilder/index.php:639
+msgid "Romania"
+msgstr "Румыния"
+
+#: modules/cart/ext/formbuilder/index.php:637
+msgid "Qatar"
+msgstr "Катар"
+
+#: modules/cart/ext/formbuilder/index.php:636
+msgid "Puerto Rico"
+msgstr "Пуэрто-Рико"
+
+#: modules/cart/ext/formbuilder/index.php:635
+msgid "Portugal"
+msgstr "Португалия"
+
+#: modules/cart/ext/formbuilder/index.php:634
+msgid "Poland"
+msgstr "Польша"
+
+#: modules/cart/includes/cart-form.php:302
+msgid "Order Total:"
+msgstr "Итого заказ:"
+
+#: modules/cart/includes/cart-form.php:295
+msgid "Total Gross:"
+msgstr "Сумма Всего:"
+
+#: modules/cart/includes/cart-form.php:290
+msgid "Total Net:"
+msgstr "Сумма (без налога):"
+
+#: modules/cart/includes/shopping-settings.php:48
+msgid "Click to add this item to cart."
+msgstr "Нажмите чтобы добавить в корзину"
+
+#: modules/cart/includes/cart-widget.php:25
+#: modules/cart/includes/shopping-settings.php:17
+msgid "Shopping Cart"
+msgstr "Корзина"
+
+#: modules/cart/includes/variations/product-variations-settings.php:58
+msgid "Number of product variations"
+msgstr "Количество вариантов товара"
+
+#: modules/cart/includes/variations/product-variations-settings.php:51
+msgid "Product Variations Settings"
+msgstr "Настройки вариантов товара"
+
+#: includes/activation-config.php:153
+#: modules/cart/includes/variations/product-variations-settings.php:17
+#: modules/cart/includes/variations/variations-meta.php:29
+msgid "Product Variations"
+msgstr "Варианты товара"
+
+#: modules/cart/includes/cart-customer.php:71
+#: modules/cart/includes/shopping-cart.php:112
+msgid "selected"
+msgstr "выбрано"
+
+#: modules/cart/includes/cart-widget.php:24
+msgid "Display Shopping Cart."
+msgstr "Показать корзину"
+
+#: modules/cart/ext/formbuilder/index.php:715
+#: modules/cart/functions/functions.php:102
+msgid "Choose your country..."
+msgstr "Выбрать страну"
+
+#: modules/cart/includes/orders/includes/save-order.php:187
+#: modules/cart/includes/shopping-settings.php:49
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#: modules/cart/includes/customers/includes/login-form-widget.php:18
+msgid "Login Form"
+msgstr "Форма входа"
+
+#: modules/cart/includes/customers/includes/transactions/customer-panel.php:53
+msgid "Logout"
+msgstr "Выход"
+
+#: modules/cart/ext/formbuilder/index.php:640
+msgid "Russian Federation"
+msgstr "Российская Федерация"
+
+#: modules/cart/ext/formbuilder/index.php:648
+msgid "Sao Tome and Principe"
+msgstr "Сан-Томе и Принсипи"
+
+#: modules/cart/ext/formbuilder/index.php:670
+msgid "Syrian Arab Republic"
+msgstr "Сирийская Арабская Республика"
+
+#: modules/cart/ext/formbuilder/index.php:677
+msgid "Thailand"
+msgstr "Таиланд"
+
+#: modules/cart/ext/formbuilder/index.php:682
+msgid "Turks and Caicos Islands"
+msgstr "Острова Теркс и Кайкос"
+
+#: modules/cart/includes/shopping-settings.php:212
+#: modules/cart/includes/shopping-settings.php:235
+#: modules/quote-cart/index.php:238
+msgid "State"
+msgstr "Область"
+
+#: modules/cart/ext/formbuilder/index.php:631
+msgid "Peru"
+msgstr "Перу"
+
+#: modules/cart/ext/formbuilder/index.php:630
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: modules/cart/ext/formbuilder/index.php:628
+msgid "Panama"
+msgstr "Панама"
+
+#: modules/cart/ext/formbuilder/index.php:625
+msgid "Pakistan"
+msgstr "Пакистан"
+
+#: modules/cart/ext/formbuilder/index.php:624
+msgid "Oman"
+msgstr "Оман"
+
+#: modules/cart/ext/formbuilder/index.php:623
+msgid "Norway"
+msgstr "Норвегия"
+
+#: modules/cart/ext/formbuilder/index.php:622
+msgid "Northern Mariana Islands"
+msgstr "Северные Марианские острова"
+
+#: modules/cart/ext/formbuilder/index.php:621
+msgid "North Korea"
+msgstr "Северная Корея"
+
+#: modules/cart/ext/formbuilder/index.php:620
+msgid "Norfolk Island"
+msgstr "Остров Норфолк"
+
+#: modules/cart/ext/formbuilder/index.php:619
+msgid "Niue"
+msgstr "Ниуэ"
+
+#: modules/cart/ext/formbuilder/index.php:618
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: modules/cart/ext/formbuilder/index.php:617
+msgid "Niger"
+msgstr "Нигер"
+
+#: modules/cart/ext/formbuilder/index.php:616
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+#: modules/cart/ext/formbuilder/index.php:615
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+#: modules/cart/ext/formbuilder/index.php:614
+msgid "New Caledonia"
+msgstr "Новая Каледония"
+
+#: modules/cart/ext/formbuilder/index.php:612
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+#: modules/cart/ext/formbuilder/index.php:611
+msgid "Nepal"
+msgstr "Непал"
+
+#: modules/cart/ext/formbuilder/index.php:610
+msgid "Nauru"
+msgstr "Науру"
+
+#: modules/cart/ext/formbuilder/index.php:609
+msgid "Namibia"
+msgstr "Намибия"
+
+#: modules/cart/ext/formbuilder/index.php:608
+msgid "Myanmar"
+msgstr "Мьянма"
+
+#: modules/cart/ext/formbuilder/index.php:607
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+#: modules/cart/ext/formbuilder/index.php:606
+msgid "Morocco"
+msgstr "Марокко"
+
+#: modules/cart/ext/formbuilder/index.php:604
+msgid "Montenegro"
+msgstr "Черногория"
+
+#: modules/cart/ext/formbuilder/index.php:603
+msgid "Mongolia"
+msgstr "Монголия"
+
+#: modules/cart/ext/formbuilder/index.php:602
+msgid "Monaco"
+msgstr "Монако"
+
+#: modules/cart/ext/formbuilder/index.php:600
+msgid "Micronesia"
+msgstr "Микронезия"
+
+#: modules/cart/ext/formbuilder/index.php:599
+msgid "Mexico"
+msgstr "Мексика"
+
+#: modules/cart/ext/formbuilder/index.php:598
+msgid "Mayotte"
+msgstr "Майотта"
+
+#: modules/cart/ext/formbuilder/index.php:597
+msgid "Mauritius"
+msgstr "Маврикий"
+
+#: modules/cart/ext/formbuilder/index.php:596
+msgid "Mauritania"
+msgstr "Мавритания"
+
+#: modules/cart/ext/formbuilder/index.php:595
+msgid "Martinique"
+msgstr "Мартиника"
+
+#: modules/cart/ext/formbuilder/index.php:594
+msgid "Marshall Islands"
+msgstr "Маршалловы острова"
+
+#: modules/cart/ext/formbuilder/index.php:593
+msgid "Malta"
+msgstr "Мальта"
+
+#: modules/cart/ext/formbuilder/index.php:592
+msgid "Mali"
+msgstr "Мали"
+
+#: modules/cart/ext/formbuilder/index.php:591
+msgid "Maldives"
+msgstr "Мальдивы"
+
+#: modules/cart/ext/formbuilder/index.php:590
+msgid "Malaysia"
+msgstr "Малайзия"
+
+#: modules/cart/ext/formbuilder/index.php:589
+msgid "Malawi"
+msgstr "Малави"
+
+#: modules/cart/ext/formbuilder/index.php:588
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: modules/cart/ext/formbuilder/index.php:587
+msgid "Macedonia"
+msgstr "Македония"
+
+#: modules/cart/ext/formbuilder/index.php:584
+msgid "Lithuania"
+msgstr "Литва"
+
+#: modules/cart/ext/formbuilder/index.php:583
+msgid "Liechtenstein"
+msgstr "Лихтенштейн"
+
+#: modules/cart/ext/formbuilder/index.php:581
+msgid "Liberia"
+msgstr "Либерия"
+
+#: modules/cart/ext/formbuilder/index.php:580
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: modules/cart/ext/formbuilder/index.php:579
+msgid "Lebanon"
+msgstr "Ливан"
+
+#: modules/cart/ext/formbuilder/index.php:578
+msgid "Latvia"
+msgstr "Латвия"
+
+#: modules/cart/ext/formbuilder/index.php:575
+msgid "Kuwait"
+msgstr "Кувейт"
+
+#: modules/cart/ext/formbuilder/index.php:574
+msgid "Kiribati"
+msgstr "Кирибати"
+
+#: modules/cart/ext/formbuilder/index.php:573
+msgid "Kenya"
+msgstr "Кения"
+
+#: modules/cart/ext/formbuilder/index.php:572
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+#: modules/cart/ext/formbuilder/index.php:571
+msgid "Jordan"
+msgstr "Иордания"
+
+#: modules/cart/ext/formbuilder/index.php:570
+msgid "Jersey"
+msgstr "Джерси"
+
+#: modules/cart/ext/formbuilder/index.php:569
+msgid "Japan"
+msgstr "Япония"
+
+#: modules/cart/ext/formbuilder/index.php:568
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: modules/cart/ext/formbuilder/index.php:567
+msgid "Italy"
+msgstr "Италия"
+
+#: modules/cart/ext/formbuilder/index.php:566
+msgid "Israel"
+msgstr "Израиль"
+
+#: modules/cart/ext/formbuilder/index.php:565
+msgid "Isle of Man"
+msgstr "Остров Мэн"
+
+#: modules/cart/ext/formbuilder/index.php:564
+msgid "Ireland"
+msgstr "Ирландия"
+
+#: modules/cart/ext/formbuilder/index.php:563
+msgid "Iraq"
+msgstr "Ирак"
+
+#: modules/cart/ext/formbuilder/index.php:562
+msgid "Iran"
+msgstr "Иран"
+
+#: modules/cart/ext/formbuilder/index.php:561
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: modules/cart/ext/formbuilder/index.php:560
+msgid "India"
+msgstr "Индия"
+
+#: modules/cart/ext/formbuilder/index.php:559
+msgid "Iceland"
+msgstr "Исландия"
+
+#: modules/cart/ext/formbuilder/index.php:558
+msgid "Hungary"
+msgstr "Венгрия"
+
+#: modules/cart/ext/formbuilder/index.php:557
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+#: modules/cart/ext/formbuilder/index.php:556
+msgid "Honduras"
+msgstr "Гондурас"
+
+#: modules/cart/ext/formbuilder/index.php:553
+msgid "Haiti"
+msgstr "Гаити"
+
+#: modules/cart/ext/formbuilder/index.php:552
+msgid "Guyana"
+msgstr "Гайана"
+
+#: modules/cart/ext/formbuilder/index.php:551
+msgid "Guinea-Bissau"
+msgstr "Гвинея-Бисау"
+
+#: modules/cart/ext/formbuilder/index.php:550
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: modules/cart/ext/formbuilder/index.php:549
+msgid "Guernsey"
+msgstr "Гернси"
+
+#: modules/cart/ext/formbuilder/index.php:548
+msgid "Guatemala"
+msgstr "Гватемала"
+
+#: modules/cart/ext/formbuilder/index.php:547
+msgid "Guam"
+msgstr "Гуам"
+
+#: modules/cart/ext/formbuilder/index.php:546
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+#: modules/cart/ext/formbuilder/index.php:545
+msgid "Grenada"
+msgstr "Гренада"
+
+#: modules/cart/ext/formbuilder/index.php:544
+msgid "Greenland"
+msgstr "Гренландия"
+
+#: modules/cart/ext/formbuilder/index.php:543
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+#: modules/cart/ext/formbuilder/index.php:542
+msgid "Ghana"
+msgstr "Гана"
+
+#: modules/cart/ext/formbuilder/index.php:541
+msgid "Greece"
+msgstr "Греция"
+
+#: modules/cart/ext/formbuilder/index.php:540
+msgid "Germany"
+msgstr "Германия"
+
+#: modules/cart/ext/formbuilder/index.php:539
+msgid "Georgia"
+msgstr "Грузия"
+
+#: modules/cart/ext/formbuilder/index.php:538
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: modules/cart/ext/formbuilder/index.php:537
+msgid "Gabon"
+msgstr "Габон"
+
+#: modules/cart/ext/formbuilder/index.php:536
+msgid "French Southern Territories"
+msgstr "Французские южные территории"
+
+#: modules/cart/ext/formbuilder/index.php:535
+msgid "French Polynesia"
+msgstr "Французская Полинезия"
+
+#: modules/cart/ext/formbuilder/index.php:534
+msgid "French Guiana"
+msgstr "Французская Гвиана"
+
+#: modules/cart/ext/formbuilder/index.php:533
+msgid "France"
+msgstr "Франция"
+
+#: modules/cart/ext/formbuilder/index.php:532
+msgid "Finland"
+msgstr "Финляндия"
+
+#: modules/cart/ext/formbuilder/index.php:531
+msgid "Fiji"
+msgstr "Фиджи"
+
+#: modules/cart/ext/formbuilder/index.php:530
+msgid "Faroe Islands"
+msgstr "Фарерские острова"
+
+#: modules/cart/ext/formbuilder/index.php:529
+msgid "Falkland Islands"
+msgstr "Фолклендские острова"
+
+#: modules/cart/ext/formbuilder/index.php:528
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+#: modules/cart/ext/formbuilder/index.php:527
+msgid "Estonia"
+msgstr "Эстония"
+
+#: modules/cart/ext/formbuilder/index.php:526
+msgid "Eritrea"
+msgstr "Эритрея"
+
+#: modules/cart/ext/formbuilder/index.php:525
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+#: modules/cart/ext/formbuilder/index.php:524
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+#: modules/cart/ext/formbuilder/index.php:523
+msgid "Egypt"
+msgstr "Египет"
+
+#: modules/cart/ext/formbuilder/index.php:522
+msgid "Ecuador"
+msgstr "Эквадор"
+
+#: modules/cart/ext/formbuilder/index.php:520
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+#: modules/cart/ext/formbuilder/index.php:519
+msgid "Dominica"
+msgstr "Доминика"
+
+#: modules/cart/ext/formbuilder/index.php:518
+msgid "Djibouti"
+msgstr "Джибути"
+
+#: modules/cart/ext/formbuilder/index.php:517
+msgid "Denmark"
+msgstr "Дания"
+
+#: modules/cart/ext/formbuilder/index.php:514
+msgid "Cuba"
+msgstr "Куба"
+
+#: modules/cart/ext/formbuilder/index.php:511
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+#: modules/cart/ext/formbuilder/index.php:510
+msgid "Cook Islands"
+msgstr "Острова Кука"
+
+#: modules/cart/ext/formbuilder/index.php:506
+msgid "Colombia"
+msgstr "Колумбия"
+
+#: modules/cart/ext/formbuilder/index.php:504
+msgid "Christmas Island"
+msgstr "Остров Рождества"
+
+#: modules/cart/ext/formbuilder/index.php:503
+msgid "China"
+msgstr "Китай"
+
+#: modules/cart/ext/formbuilder/index.php:502
+msgid "Chile"
+msgstr "Чили"
+
+#: modules/cart/ext/formbuilder/index.php:501
+msgid "Chad"
+msgstr "Чад"
+
+#: modules/cart/ext/formbuilder/index.php:498
+msgid "Cape Verde"
+msgstr "Кабо-Верде"
+
+#: modules/cart/ext/formbuilder/index.php:497
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: modules/cart/ext/formbuilder/index.php:496
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: modules/cart/ext/formbuilder/index.php:495
+msgid "Burundi"
+msgstr "Бурунди"
+
+#: modules/cart/ext/formbuilder/index.php:494
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+#: modules/cart/ext/formbuilder/index.php:493
+msgid "Bulgaria"
+msgstr "Болгария"
+
+#: modules/cart/ext/formbuilder/index.php:491
+msgid "British Indian Ocean Territory"
+msgstr "Британская территория Индийского океана"
+
+#: modules/cart/ext/formbuilder/index.php:490
+msgid "Brazil"
+msgstr "Бразилия"
+
+#: modules/cart/ext/formbuilder/index.php:489
+msgid "Bouvet Island"
+msgstr "Остров Буве"
+
+#: modules/cart/ext/formbuilder/index.php:488
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: modules/cart/ext/formbuilder/index.php:487
+msgid "Bosnia and Herzegovina"
+msgstr "Босния и Герцеговина"
+
+#: modules/cart/ext/formbuilder/index.php:486
+msgid "Bolivia"
+msgstr "Боливия"
+
+#: modules/cart/ext/formbuilder/index.php:485
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: modules/cart/ext/formbuilder/index.php:484
+msgid "Bermuda"
+msgstr "Бермуды"
+
+#: modules/cart/ext/formbuilder/index.php:483
+msgid "Benin"
+msgstr "Бенин"
+
+#: modules/cart/ext/formbuilder/index.php:482
+msgid "Belize"
+msgstr "Белиз"
+
+#: modules/cart/ext/formbuilder/index.php:481
+msgid "Belgium"
+msgstr "Бельгия"
+
+#: modules/cart/ext/formbuilder/index.php:479
+msgid "Barbados"
+msgstr "Барбадос"
+
+#: modules/cart/ext/formbuilder/index.php:478
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: modules/cart/ext/formbuilder/index.php:477
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+#: modules/cart/ext/formbuilder/index.php:476
+msgid "Bahamas"
+msgstr "Багамы"
+
+#: modules/cart/ext/formbuilder/index.php:475
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: modules/cart/ext/formbuilder/index.php:474
+msgid "Austria"
+msgstr "Австрия"
+
+#: modules/cart/ext/formbuilder/index.php:473
+msgid "Australia"
+msgstr "Австралия"
+
+#: modules/cart/ext/formbuilder/index.php:472
+msgid "Aruba"
+msgstr "Аруба"
+
+#: modules/cart/ext/formbuilder/index.php:471
+msgid "Armenia"
+msgstr "Армения"
+
+#: modules/cart/ext/formbuilder/index.php:470
+msgid "Argentina"
+msgstr "Аргентина"
+
+#: modules/cart/ext/formbuilder/index.php:469
+msgid "Antigua and Barbuda"
+msgstr "Антигуа и Барбуда"
+
+#: modules/cart/ext/formbuilder/index.php:467
+msgid "Anguilla"
+msgstr "Ангилья"
+
+#: modules/cart/ext/formbuilder/index.php:466
+msgid "Angola"
+msgstr "Ангола"
+
+#: modules/cart/ext/formbuilder/index.php:465
+msgid "Andorra"
+msgstr "Андорра"
+
+#: modules/cart/ext/formbuilder/index.php:464
+msgid "American Samoa"
+msgstr "Американское Самоа"
+
+#: modules/cart/ext/formbuilder/index.php:463
+msgid "Algeria"
+msgstr "Алжир"
+
+#: modules/cart/ext/formbuilder/index.php:462
+msgid "Albania"
+msgstr "Албания"
+
+#: modules/cart/ext/formbuilder/index.php:461
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+#: modules/cart/ext/formbuilder/index.php:459
+msgid "Canada"
+msgstr "Канада"
+
+#: modules/cart/includes/cart-form.php:221
+#: modules/cart/includes/cart/ic-cart.php:61 modules/quote-cart/index.php:193
+msgid "Quantity"
+msgstr "Количество"
+
+#: modules/cart/includes/orders/includes/digital-order-columns.php:51
+#: modules/cart/includes/orders/includes/register-digital-orders.php:37
+#: modules/quote-cart/index.php:61 modules/quote-cart/index.php:86
+msgid "Order"
+msgstr "Заказ"
+
+#: modules/cart/ext/formbuilder/index.php:43
+msgid "Submit"
+msgstr "Отправить"
+
+#: modules/cart/includes/shopping-settings.php:220
+#: modules/cart/includes/shopping-settings.php:243
+#: modules/quote-cart/index.php:246
+msgid "Comment"
+msgstr "Комментарий"
+
+#: modules/cart/includes/shopping-settings.php:220
+#: modules/cart/includes/shopping-settings.php:243
+#: modules/quote-cart/index.php:246
+msgid "Email"
+msgstr "Email"
+
+#: modules/cart/includes/shopping-settings.php:220
+#: modules/cart/includes/shopping-settings.php:243
+#: modules/quote-cart/index.php:246
+msgid "Phone"
+msgstr "Телефон"
+
+#: modules/cart/includes/shopping-settings.php:201
+#: modules/cart/includes/shopping-settings.php:203
+#: modules/cart/includes/shopping-settings.php:224
+#: modules/cart/includes/shopping-settings.php:226
+#: modules/quote-cart/index.php:230
+msgid "Country"
+msgstr "Страна"
+
+#: modules/cart/includes/shopping-settings.php:198
+#: modules/cart/includes/shopping-settings.php:222
+#: modules/quote-cart/index.php:229
+msgid "City"
+msgstr "Город"
+
+#: modules/cart/includes/shopping-settings.php:198
+#: modules/cart/includes/shopping-settings.php:222
+#: modules/quote-cart/index.php:229
+msgid "Postal Code"
+msgstr "Почтовый индекс"
+
+#: modules/cart/includes/shopping-settings.php:198
+#: modules/cart/includes/shopping-settings.php:222
+#: modules/quote-cart/index.php:229
+msgid "Address"
+msgstr "Адрес"
+
+#: modules/cart/includes/shopping-settings.php:198
+#: modules/cart/includes/shopping-settings.php:222
+#: modules/quote-cart/index.php:229
+msgid "Full Name"
+msgstr "Имя полностью"
+
+#: modules/cart/includes/shopping-settings.php:198
+#: modules/cart/includes/shopping-settings.php:222
+#: modules/quote-cart/index.php:229
+msgid "Company"
+msgstr "Компания"
+
+#: modules/cart/ext/formbuilder/index.php:468
+msgid "Antarctica"
+msgstr "Антарктида"
+
+#: modules/cart/ext/formbuilder/index.php:480
+msgid "Belarus"
+msgstr "Белоруссия"
+
+#: modules/cart/ext/formbuilder/index.php:499
+msgid "Cayman Islands"
+msgstr "Каймановы острова"
+
+#: modules/cart/ext/formbuilder/index.php:500
+msgid "Central African Republic"
+msgstr "Центральноафриканская Республика"
+
+#: modules/cart/ext/formbuilder/index.php:505
+msgid "Cocos Islands"
+msgstr "Кокосовые острова"
+
+#: modules/cart/ext/formbuilder/index.php:507
+msgid "Comoros"
+msgstr "Коморские острова"
+
+#: modules/cart/ext/formbuilder/index.php:516
+msgid "Czech Republic"
+msgstr "Чехия"
+
+#: modules/cart/ext/formbuilder/index.php:576
+msgid "Kyrgyzstan"
+msgstr "Киргизия"
+
+#: modules/cart/ext/formbuilder/index.php:577
+msgid "Lao People's Democratic Republic"
+msgstr "Лаосская Народно-Демократическая Республика"
+
+#: modules/cart/ext/formbuilder/index.php:582
+msgid "Libyan Arab Jamahiriya"
+msgstr "Ливийская Арабская Джамахирия"
+
+#: modules/cart/ext/formbuilder/index.php:585
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: modules/cart/ext/formbuilder/index.php:601
+msgid "Moldova, Republic of"
+msgstr "Молдова, Республика"
+
+#: modules/cart/ext/formbuilder/index.php:605
+msgid "Montserrat"
+msgstr "Монтсеррат"
+
+#: modules/cart/ext/formbuilder/index.php:613
+msgid "Netherlands Antilles"
+msgstr "Нидерландские Антильские острова"
+
+#: modules/cart/ext/formbuilder/index.php:626
+msgid "Palau"
+msgstr "Палау"
+
+#: modules/cart/ext/formbuilder/index.php:627
+msgid "Palestinian Territories"
+msgstr "Палестинские территории"
+
+#: modules/cart/ext/formbuilder/index.php:629
+msgid "Papua New Guinea"
+msgstr "Папуа-Новая Гвинея"
+
+#: modules/cart/ext/formbuilder/index.php:632
+msgid "Philippines"
+msgstr "Филиппины"
+
+#: modules/cart/ext/formbuilder/index.php:460
+msgid "United Kingdom"
+msgstr "Великобритания"
+
+#: modules/cart/ext/formbuilder/index.php:458
+msgid "United States"
+msgstr "США"
+
+#: includes/settings/general.php:504
+msgid "Show main catalog page content everywhere"
+msgstr "Везде показывать содержимое страницы основного каталога"
+
+#: templates/shortcode-catalog.php:206
+msgid "Default Template"
+msgstr "Шаблон по умолчанию"
+
+#: modules/mpn/mpn-settings.php:35
+msgid "Disable MPN"
+msgstr "Выключить идентификатор производителя (MPN)"
+
+#: modules/mpn/mpn-settings.php:22
+msgid "MPN Label"
+msgstr "Ярлык изготовителя"
+
+#: includes/settings/general.php:414
+msgid "The main listing can show only products, top-level categories and products or only the categories. With the subcategories option selected the products will show up only if they are directly assigned to the category. If you want to display the products only on the bottom category level, please assign the products only to it (not to all categories in the tree)."
+msgstr "В основном списке могут отображаться товары из главного раздела или только разделы. Если выбран параметр подразделов, товары будут отображаться только в том случае, если они соответвуют разделу. Если вы хотите отображать товары только в подразделе, присвойте товару только один подраздел (не всем разделам в списке)."
+
+#: includes/settings/custom-names.php:21 includes/settings/custom-names.php:34
+msgid "MPN:"
+msgstr "MPN:"
+
+#: modules/price/price-filters.php:146
+msgid "Reset"
+msgstr "Сброс"
+
+#: includes/activation-config.php:541
+msgid "Price disabled completely"
+msgstr "Выключить цены совсем"
+
+#: ext-comp/elementor/show_catalog_widget.php:48 includes/blocks/index.php:61
+msgid "Show Catalog"
+msgstr "Показать каталог"
+
+#: includes/activation-config.php:539
+msgid "Price enabled for all or some products"
+msgstr "Показывать цену у всех продуктов или у части"
+
+#: includes/activation-config.php:531
+msgid "Shipping enabled for all or some products"
+msgstr "Показывать условия доставки везде или у части продуктов"
+
+#: includes/activation-config.php:454
+msgid "Select your currency. You can also set a custom currency in catalog settings later."
+msgstr "Выберите валюту. Вы можете установить валюту позже."
+
+#: includes/activation-config.php:533
+msgid "Shipping disabled completely"
+msgstr "Условия доставки не публикуются"
+
+#: includes/blocks/index.php:301
+msgid "None"
+msgstr "Ничего"
+
+#: includes/blocks/index.php:73
+msgid "Choose Categories to Display"
+msgstr "Выберите показываемые разделы"
+
+#: includes/blocks/index.php:63
+msgid "Show Categories"
+msgstr "Показать разделы"
+
+#: includes/product-category-columns.php:78
+#: includes/product-category-columns.php:92
+#: includes/product-category-columns.php:95
+msgid "Category Image"
+msgstr "Картинка раздела"
+
+#: includes/settings/custom-design.php:195
+msgid "Default Image"
+msgstr "Картинка по умолчанию"
+
+#: includes/class-ic-sitewide-bar.php:147
+#: includes/class-ic-sitewide-bar.php:256
+msgid "Search Icon"
+msgstr "Символ поиска"
+
+#: includes/class-ic-sitewide-bar.php:145
+#: includes/class-ic-sitewide-bar.php:230
+msgid "Hide Catalog Icon"
+msgstr "Скрыть символ каталога"
+
+#: includes/class-ic-sitewide-bar.php:146
+#: includes/class-ic-sitewide-bar.php:243
+msgid "Hide Search Icon"
+msgstr "Скрыть символ поиска"
+
+#: includes/extensions.php:1045
+msgid "Renew License"
+msgstr "Обновить Лицензию"
+
+#: includes/blocks/index.php:64
+msgid "Show"
+msgstr "Показать"
+
+#: includes/blocks/index.php:74
+msgid "By Category"
+msgstr "По категории"
+
+#: includes/blocks/index.php:69
+msgid "Order Type"
+msgstr "Вид заказа"
+
+#: includes/blocks/index.php:66
+msgid "Select Categories"
+msgstr "Выберите категории"
+
+#: includes/settings/general.php:145
+msgid "Main Catalog Page"
+msgstr "Главная страница каталога"
+
+#: includes/settings/general.php:190 includes/settings/general.php:220
+msgid "Theme Mode"
+msgstr "Режим темы"
+
+#: functions/functions.php:1382
+msgid "No %s available."
+msgstr "%s нет в наличии"
+
+#: includes/customizer.php:310 includes/customizer.php:316
+#: includes/customizer.php:322
+msgid "Looking for more options?"
+msgstr "Ищете больше опций?"
+
+#: ecommerce-product-catalog.php:188 includes/settings/csv.php:19
+#: includes/settings/csv.php:27
+msgid "Import / Export"
+msgstr "Импорт/Экспорт"
+
+#: includes/product-category-columns.php:244
+msgid "Word count: %s"
+msgstr "Счетчик слов: %s"
+
+#: modules/attributes/attributes-meta.php:335
+msgctxt "Height"
+msgid "H"
+msgstr "В"
+
+#: modules/attributes/attributes-meta.php:333
+msgctxt "Width"
+msgid "W"
+msgstr "Ш"
+
+#: modules/attributes/attributes-meta.php:334
+msgctxt "Length"
+msgid "L"
+msgstr "Д"
+
+#: modules/attributes/comparison.php:203
+msgid "Comparison Disabled"
+msgstr "Сравнение отключено"
+
+#: modules/attributes/comparison.php:200
+msgid "Comparison Page"
+msgstr "Страница сравнения"
+
+#: modules/attributes/comparison.php:197
+msgid "Comparison"
+msgstr "Сравнение"
+
+#: modules/attributes/comparison.php:174
+msgid "Compare %s"
+msgstr "Сравнить %s"
+
+#: modules/attributes/comparison.php:118
+msgid "Select %s to compare"
+msgstr "Выбрать %s для сравнения"
+
+#: modules/attributes/attributes-settings.php:263
+msgid "Disable Size"
+msgstr "Отключить размер"
+
+#: modules/attributes/attributes-settings.php:258
+msgid "Disable Weight"
+msgstr "Отключить вес"
+
+#: modules/attributes/attributes-settings.php:123
+msgid "Weight Unit"
+msgstr "Единица измерения веса"
+
+#: modules/attributes/attributes-settings.php:122
+msgid "Size Unit"
+msgstr "Единица измерения размера"
+
+#: modules/attributes/attributes-settings.php:118
+msgid "Standard Attributes"
+msgstr "Стандартные атрибуты"
+
+#: includes/widgets/filter-widgets.php:360
+msgid "Filter items by size."
+msgstr "Фильтровать товары по размеру"
+
+#: functions/functions.php:163
+#: modules/cart/includes/orders/includes/register-digital-orders.php:808
+msgid "Set Product ID"
+msgstr "Укажите ID продукта"
+
+#: includes/activation-config.php:547
+msgid "Create Separate Catalog"
+msgstr "Создать Раздельный Каталог"
+
+#: includes/class-ic-activation-wizard.php:139
+msgid "Extensions Install Page"
+msgstr "Страница установки Расширений"
+
+#: includes/class-ic-activation-wizard.php:113
+msgid "You have some recommended extensions based on your initial setup answers!"
+msgstr "Для Вас есть несколько рекомендованных расширений основанных на ответах при начальной установке!"
+
+#: includes/settings/image-sizes.php:23
+msgid "Please use the %s plugin to apply the size changes to existing images."
+msgstr "Пожалуйста используйте %s плагин для изменения размера существующих изображений."
+
+#: includes/activation-config.php:399
+msgid "Documentation"
+msgstr "Документация"
+
+#: modules/price/config/currencies.php:237
+msgid "Euro"
+msgstr "Евро"
+
+#: modules/price/config/currencies.php:213
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: modules/price/config/currencies.php:199
+msgid "Australian dollar"
+msgstr "Австралийский доллар"
+
+#: includes/widgets/category-widget.php:58
+msgid "Show All"
+msgstr "Показать всё"
+
+#: includes/customizer.php:214 includes/customizer.php:235
+msgid "%s Label"
+msgstr "%s Ярлык"
+
+#: includes/customizer.php:144
+msgid "Product Listing Template"
+msgstr "Шаблон списка товаров"
+
+#: functions/catalog-admin.php:93
+msgid "Customize Listing Design"
+msgstr "Настроить дизайн списка"
+
+#: functions/catalog-admin.php:84
+msgid "Customize Page Design"
+msgstr "Настроить дизайн страницы"
+
+#: functions/catalog-admin.php:58 functions/catalog-admin.php:72
+msgid "Admin Options"
+msgstr "Административные настройки"
+
+#: functions/activation.php:207
+msgid "Start Automatic Theme Integration"
+msgstr "Начать автоматическую интеграцию темы"
+
+#: templates/theme-integration.php:93
+msgid "Video Tutorial"
+msgstr "Видео-инструкция"
+
+#: includes/settings/csv.php:421
+msgid "%s successfully imported!"
+msgstr "%s успешно импортировано!"
+
+#: includes/settings/csv.php:400
+msgid "Import"
+msgstr "Импорт"
+
+#: includes/settings/csv.php:395
+msgid "Import from other content"
+msgstr "Импорт из другого содержимого"
+
+#: includes/tracking.php:390
+msgid "What is the reason?"
+msgstr "В чем причина?"
+
+#: includes/tracking.php:390
+msgid "Other"
+msgstr "Другое"
+
+#: includes/tracking.php:389
+msgid "What did you expect?"
+msgstr "Чего вы ожидали?"
+
+#: includes/tracking.php:389
+msgid "The plugin didn't work as expected"
+msgstr "Плагин не сработал, как ожидалось"
+
+#: includes/tracking.php:388
+msgid "What you've been looking for?"
+msgstr "Что вы ищете?"
+
+#: includes/tracking.php:388
+msgid "It's not what I was looking for"
+msgstr "Это не то, что я искал"
+
+#: includes/tracking.php:387
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Расскажите нам о возникшей проблеме, чтобы мы могли ее исправить."
+
+#: includes/tracking.php:387
+msgid "The plugin is not working"
+msgstr "Плагин не работает"
+
+#: includes/tracking.php:386
+msgid "What feature?"
+msgstr "Какая функция?"
+
+#: includes/tracking.php:385
+msgid "What's the plugin's name?"
+msgstr "Как называется плагин?"
+
+#: includes/tracking.php:385
+msgid "I found a better plugin"
+msgstr "Я нашел плагин лучше"
+
+#: includes/tracking.php:384
+msgid "I couldn't understand how to make it work"
+msgstr "Я не понял как он работает"
+
+#: includes/tracking.php:374
+msgid "Submit & Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: includes/tracking.php:373
+msgid "Please choose a reason..."
+msgstr "Пожалуйста, выберите причину..."
+
+#: includes/tracking.php:366
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Пожалуйста, расскажите нам почему вы деактивируете плагин"
+
+#: includes/tracking.php:335
+msgid "Processing..."
+msgstr "Обрабатывается..."
+
+#: includes/tracking.php:301
+msgid "Do not allow"
+msgstr "Не разрешать"
+
+#: includes/tracking.php:300
+msgid "Allow"
+msgstr "Разрешить"
+
+#: includes/tracking.php:299
+msgid "Allow %s to track plugin usage? Opt-in to tracking to help in plugin development. No sensitive data is tracked."
+msgstr "Разрешить %s отслеживать использование плагина? Подпишитесь на отслеживание, чтобы помочь с разработкой плагина. Конфиденциальные данные не отслеживаются."
+
+#: includes/tracking.php:215
+msgid "Send anonymous statistics"
+msgstr "Анонимно отправить статистику"
+
+#: includes/cron.php:43
+msgid "Once Weekly"
+msgstr "Один раз в неделю"
+
+#: includes/widgets/filter-widgets.php:276
+#: includes/widgets/filter-widgets.php:334
+#: includes/widgets/filter-widgets.php:407
+#: modules/price/widgets/price-filter-widget.php:76
+msgid "Enable also for shortcodes"
+msgstr "Включить также для шорткодов"
+
+#: includes/settings/general.php:355
+msgid "Disable and use %s shortcode to display the products."
+msgstr "Отключить и использовать %s шорткод для отображения товаров."
+
+#: theme-product_adder_support.php:187
+msgid "Thank you for choosing %1$s! If you have any questions or issues feel free to %2$spost a support ticket%3$s."
+msgstr "Спасибо, что выбрали %1$s! Если у вас есть вопросы или проблемы, пожалуйста %2$sоформите сообщение в службу поддержки%3$s."
+
+#: templates/theme-integration.php:98
+msgid "In most cases you should decrease this number to match your template container size."
+msgstr "В большинстве случаев вам следует уменьшить эту цифру для соответствия шаблонного размера контейнера."
+
+#: templates/theme-integration.php:97
+msgid "%1$sDecrease width%2$s to change the product page horizontal size, %1$sincrease padding%2$s to generate space around the content and %1$sset background & text colors%2$s to match your theme style"
+msgstr "%1$sУменьшить ширину%2$s чтобы изменить горизонтальный размер страницы, %1$sувеличить внутренний отступ%2$s чтобы создать пространство вокруг содержимого и %1$sзадать фон и цвет текста%2$s соответствующих стилю вашей темы"
+
+#: includes/activation-config.php:98 includes/activation-config.php:116
+#: templates/theme-integration.php:50
+msgid "Catalog Configuration"
+msgstr "Конфигурация каталога"
+
+#: modules/price/price-settings.php:79
+msgid "Select a currency from the list. If your currency is not available in the list, please use the Custom Currency Symbol option below."
+msgstr "Выберите валюту из списка. Если вашей валюты нет в списке, пожалуйста, используйте опцию пользовательского символа валюты ниже."
+
+#: modules/price/price-settings.php:75
+msgid "Whether to enable or disable price functionality for the catalog."
+msgstr "Отключить или включить функцию цены для каталога."
+
+#: includes/settings/general.php:458
+msgid "The title for main product listing in breadcrumbs."
+msgstr "Название основного раздела товаров в пути перехода по сайту."
+
+#: includes/settings/general.php:457
+msgid "Shows a path to the currently displayed product catalog page with URLs to parent pages and correct schema markup for SEO."
+msgstr "Показывает путь к отображаемой странице товаров в каталоге со ссылками до родительских страниц и корректную схему для SEO."
+
+#: includes/settings/general.php:417
+msgid "The related products or categories will be shown on the bottom of product pages."
+msgstr "Похожие товары или категории будут отображаться внизу страницы товаров."
+
+#: includes/settings/general.php:415
+msgid "Template option will display categories with the same listing theme as products. Link option will show categories as simple URLs without image."
+msgstr "Опция шаблонов будет отображать категории с одинаковыми темами разделов, как товаров. Опция ссылки будет показывать категории, как простые ссылки без изображений."
+
+#: includes/settings/general.php:360
+msgid "The page where the main product listing shows. Also this page slug will be included in product url."
+msgstr "Страница, где отображается основной раздел товаров. Также, уникальный идентификатор этой страницы будет включен в ссылку товара."
+
+#: includes/settings/general.php:201 includes/settings/general.php:285
+msgid "Advanced Mode Visual Wizard"
+msgstr "Визуальный мастер настройки расширенного режима"
+
+#: includes/settings/general.php:242
+msgid "Use the button below to begin the easy auto adjustment."
+msgstr "Используйте кнопку ниже, чтобы начать простую автоматическую настройку."
+
+#: includes/settings/general.php:241
+msgid "In Advanced Mode %s must figure out your theme markup to display products properly."
+msgstr "В расширенном режиме %s необходимо определить разметку темы, чтобы корректно отображать товары."
+
+#: includes/settings/general.php:189 includes/settings/general.php:219
+msgid "Advanced Mode"
+msgstr "Расширенный режим"
+
+#: includes/settings/general.php:188 includes/settings/general.php:218
+msgid "Simple Mode"
+msgstr "Простой режим"
+
+#: includes/settings/general.php:325 includes/settings/general.php:327
+msgid "Catalog Mode"
+msgstr "Режим каталога"
+
+#: includes/customizer.php:77 includes/settings/custom-design.php:201
+msgid "Enable lightbox gallery"
+msgstr "Включить галлерею лайтбокс"
+
+#: includes/customizer.php:191
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: includes/customizer.php:273
+msgid "Please adjust these settings on a product listing to see any effect."
+msgstr "Пожалуйста, скорректируйте эти настройки на разделе товара, чтобы увидеть эффект."
+
+#: includes/customizer.php:270
+msgid "Product Listing Style"
+msgstr "Стиль раздела товаров"
+
+#: includes/customizer.php:267
+msgid "Please adjust these settings on a product page to see any effect."
+msgstr "Пожалуйста, скорректируйте эти настройки на странице товара, чтобы увидеть эффект."
+
+#: includes/customizer.php:264
+msgid "Product Page Style"
+msgstr "Стиль страницы товара"
+
+#: includes/customizer.php:257
+msgid "Go to catalog page that you want to style so you can see the effect immediately."
+msgstr "Перейти на страницу каталога, которую вы хотите настроить, чтобы сразу увидеть эффект."
+
+#: functions/activation.php:141
+msgid "Please read this page carefully to fully understand all product page elements."
+msgstr "Пожалуйста, внимательно прочитайте эту страницу, чтобы полностью понять все элементы страницы товаров."
+
+#: functions/activation.php:140
+msgid "You can change the product page template in catalog settings."
+msgstr "Вы можете изменить шаблон страницы товара в настройках каталога."
+
+#. Plugin Name of the plugin
+msgid "eCommerce Product Catalog for WordPress"
+msgstr "eCommerce Product Catalog for WordPress"
+
+#: theme-product_adder_support.php:191
+msgid "If you are looking for a great customizable product theme we recommend free %sCatalog Me! theme%s."
+msgstr "Если вы ищете отлично настраиваемую тему для товаров, мы рекомендуем бесплатную %sтему Catalog Me!%s."
+
+#: theme-product_adder_support.php:188
+msgid "%s requires initial configuration in order to work properly &#8211; please click the Initial Configuration button to proceed."
+msgstr "%s требует изначальной конфигурации для корректной работы &#8211; Пожалуйста, нажмите кнопку Изначальная Конфигурация, чтобы продолжить."
+
+#: includes/system.php:43
+msgid "All Catalog Products successfully deleted!"
+msgstr "Все товары из каталога успешно удалены!"
+
+#: includes/settings/csv.php:153
+msgid "Please make sure that only the expected columns exist in the import file and the correct CSV separator is set."
+msgstr "Пожалуйста, убедитесь, что только нужные столбцы находятся в импортируемом файле и установлен корректный разделитель CSV."
+
+#: includes/settings/csv.php:152
+msgid "Columns expected in file: %s"
+msgstr "Столбцы в файле: %s"
+
+#: includes/settings/csv.php:97
+msgid "Comma"
+msgstr "Запятая"
+
+#: includes/settings/csv.php:95
+msgid "Semicolon"
+msgstr "Двоеточие"
+
+#: includes/settings/csv.php:151
+msgid "Columns included in file: %s"
+msgstr "Столбцы включенные в файл: %s"
+
+#: includes/customizer.php:178 templates/theme-integration.php:100
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: templates/theme-integration.php:91
+msgid "Click start to proceed with layout adjustment."
+msgstr "Нажмите старт чтобы продолжить настройку формата сайта."
+
+#: includes/settings/tooltips.php:175 templates/theme-integration.php:156
+msgid "Next"
+msgstr "Дальше"
+
+#: templates/theme-integration.php:154 templates/theme-integration.php:156
+msgid "Go Back"
+msgstr "Назад"
+
+#: templates/theme-integration.php:116
+msgid "Disable unnecessary product page elements"
+msgstr "Отключить ненужные элементы страницы товаров"
+
+#: templates/theme-integration.php:106
+msgid "Select the sidebar side to enable it on your product pages."
+msgstr "Выбрать сторону для сайдбара, чтобы включить его на страницах товаров."
+
+#: templates/theme-integration.php:93
+msgid "Start"
+msgstr "Начать"
+
+#: templates/theme-integration.php:90
+msgid "Don't worry if it looks messy."
+msgstr "Не волнуйтесь, если все выглядит неаккуратно. "
+
+#: functions/capabilities.php:113
+msgid "Catalog Manager"
+msgstr "Управление каталогом"
+
+#: includes/settings/csv.php:140
+msgid "%s failures occurred. Please check if the file is UTF-8 encoded"
+msgstr "%s произошла ошибка. Пожалуйста проверьте, что кодировка файла UTF-8"
+
+#: templates/theme-integration.php:173
+msgid "Congratulations! %s is working on Advanced Mode now. You can go to admin and add the products to the catalog."
+msgstr "Поздравляем %s теперь включен расширенный режим. Вы можете добавить товары в каталог в личном кабинете."
+
+#: templates/theme-integration.php:67
+msgid "%s is currently running in Simple Mode."
+msgstr "%s в данный момент работает в обычном режиме."
+
+#: modules/shipping/shipping-settings.php:78
+msgid "You can change these default values for every new item in the catalog."
+msgstr "Вы можете изменить эти значения по умолчанию для каждого нового товара в каталоге."
+
+#: modules/shipping/shipping-settings.php:68
+msgid "Shipping options"
+msgstr "Варианты доставки"
+
+#: modules/attributes/attributes-settings.php:76
+msgid "You can change these default values for every item."
+msgstr "Вы можете изменить эти значения по умолчанию для каждого товара."
+
+#: includes/system.php:139
+msgid "%s Version"
+msgstr "%s Версия"
+
+#: includes/system.php:358
+msgid "%s Support"
+msgstr "%s Поддержка"
+
+#: modules/attributes/attributes-settings.php:63
+#: modules/attributes/attributes-settings.php:68
+msgid "Number of attributes"
+msgstr "Количество атрибутов"
+
+#: modules/attributes/attributes-settings.php:65
+msgid "Attributes options"
+msgstr "Варианты атрибутов"
+
+#: includes/system.php:151
+msgid "%s Database Version"
+msgstr "%s Версия базы данных"
+
+#: includes/system.php:103
+msgid "Delete all Catalog Categories"
+msgstr "Удалить все категории каталога"
+
+#: includes/blocks/index.php:227
+msgid "Catalog"
+msgstr "Каталог"
+
+#: includes/system.php:102
+msgid "Delete all categories"
+msgstr "Удалить все категории"
+
+#: includes/system.php:98
+msgid "Delete all items"
+msgstr "Удалить все товары"
+
+#: includes/settings/settings-functions.php:477
+msgid "item"
+msgstr "товар"
+
+#: includes/settings/settings-functions.php:475
+msgid "items"
+msgstr "товары"
+
+#: includes/system.php:99
+msgid "Delete all Catalog Items"
+msgstr "Удалить все товары из каталога"
+
+#: includes/system.php:95
+msgid "Reset Catalog Settings"
+msgstr "Переустановить настройки каталога"
+
+#: includes/settings/image-sizes.php:37
+msgid "Catalog Category Page Image"
+msgstr "Изображение страницы категорий"
+
+#: includes/settings/image-sizes.php:28
+msgid "Catalog Single Page Image"
+msgstr "Изображение одной страницы каталога"
+
+#: includes/settings/general.php:630
+msgid "Sort by Name"
+msgstr "Сортировать по названию"
+
+#: includes/settings/general.php:458
+msgid "Main listing breadcrumbs title"
+msgstr "Заголовок основного раздела пути перехода по сайту"
+
+#: includes/settings/general.php:457
+msgid "Enable Catalog Breadcrumbs"
+msgstr "Включить путь перехода по сайту для каталога"
+
+#: includes/settings/general.php:377
+msgid "Default order"
+msgstr "Порядок по умолчанию"
+
+#: includes/settings/general.php:375
+msgid "Main listing shows"
+msgstr "Основной раздел показывает"
+
+#: includes/settings/general.php:374
+msgid "Listing shows at most"
+msgstr "Раздел показывает максимум"
+
+#: includes/settings/general.php:361
+msgid "Choose Main Listing Page"
+msgstr "Выберите страницу основного раздела"
+
+#: includes/settings/general.php:355
+msgid "Enable Main Listing Page"
+msgstr "Включить страницу основного раздела"
+
+#: includes/settings/general.php:340
+msgid "Main listing page"
+msgstr "Страница основного раздела"
+
+#: includes/activation-config.php:185 includes/product-category-columns.php:188
+#: includes/product-category-columns.php:222
+#: includes/settings/custom-names.php:40
+msgid "Description"
+msgstr "Описание"
+
+#: includes/settings/custom-names.php:32
+msgid "Price:"
+msgstr "Цена:"
+
+#: includes/settings/custom-names.php:167
+msgid "Listing Pages Labels"
+msgstr "Ярлыки страниц разделов"
+
+#: includes/settings/custom-names.php:123
+msgid "Single Item Page Labels"
+msgstr "Ярлыки для страницы одного товара"
+
+#: includes/settings/custom-names.php:108
+msgid "Listing Pages"
+msgstr "Страницы разделов"
+
+#: includes/settings/custom-names.php:107
+msgid "Single Item Page"
+msgstr "Страница одного товара"
+
+#: includes/settings/custom-names.php:38
+msgid "<< return to listing"
+msgstr "<< вернуться в раздел"
+
+#: includes/settings/custom-names.php:36
+msgid "Features"
+msgstr "Функции"
+
+#: includes/settings/custom-design.php:207
+msgid "Single Page Template"
+msgstr "Шаблон отдельной страницы"
+
+#: includes/customizer.php:103 includes/settings/custom-design.php:203
+msgid "Enable image only when inserted"
+msgstr "Включать изображение только когда оно добавлено"
+
+#: includes/customizer.php:63 includes/settings/custom-design.php:200
+msgid "Enable image"
+msgstr "Включить изображение"
+
+#: includes/settings/custom-design.php:45
+msgid "Single Page Design"
+msgstr "Дизайн отдельной страницы"
+
+#: includes/settings/custom-design.php:44
+#: includes/settings/custom-design.php:95
+#: includes/settings/custom-design.php:98
+msgid "Listing Design"
+msgstr "Дизайн раздела"
+
+#: includes/settings/csv.php:92
+msgid "Import Now"
+msgstr "Импортировать сейчас"
+
+#: includes/settings/csv.php:55
+msgid "Simple Import"
+msgstr "Простой импорт"
+
+#: includes/settings/csv.php:54
+msgid "Export all items to CSV file"
+msgstr "Экспортировать все товары в файл  CSV"
+
+#: includes/settings/csv.php:44
+msgid "Simple Export"
+msgstr "Простой экспорт"
+
+#: includes/register-product.php:130
+msgid "Remove main image"
+msgstr "Удалить основное изображение"
+
+#: includes/register-product.php:129
+msgid "Set main image"
+msgstr "Установить основное изображение"
+
+#: includes/register-product.php:114
+msgid "Remove main %s image"
+msgstr "Удалить основное %s изображение"
+
+#: includes/register-product.php:113
+msgid "Set main %s image"
+msgstr "Задать основное %s изображение"
+
+#: includes/product-settings.php:383
+msgid "Feel free to submit a ticket if you think that you found a bug or you have a problem while using %s."
+msgstr "Пожалуйста, напишите в службу поддержки, если вы думаете, что обнаружили ошибку или у вас проблема с использованием %s."
+
+#: includes/extensions.php:720
+msgid "This extension is not available at this time. Try again later."
+msgstr "Это расширение недоступно в данный момент. Попробуйте позже."
+
+#: includes/extensions.php:587
+msgid "Price Required"
+msgstr "Необходимо указать цену"
+
+#: functions/support.php:92
+msgid "<b>%4$s</b> documentation is being developed <a href=\"%1$s\">here</a>. For questions about %4$s please use <a href=\"%2$s\">support forum</a> or <a href=\"%3$s\">Premium Support service</a>."
+msgstr "<b>%4$s</b>документация разрабатывается <a href=\"%1$s\">здесь</a>. Чтобы задать вопрос о %4$s пожалуйста используйте <a href=\"%2$s\">форум поддержки</a> или <a href=\"%3$s\">службу премиум поддержки</a>."
+
+#: functions/support.php:91
+msgid "%s documentation"
+msgstr "%s документация"
+
+#: functions/support.php:39
+msgid "<b>%s is free to use</b>. That's great! It's a pleasure to serve it to you. Let's keep it free forever!"
+msgstr "<b>%s бесплатно для использования</b>. Это здорово! Мы рады, что можем предоставить это вам. Давайте сохраним это бесплатным всегда!"
+
+#: modules/cart/includes/variations/variations-meta.php:156
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/settings/custom-design.php:115
+#: includes/settings/custom-design.php:149
+msgid "categories"
+msgstr "категории"
+
+#: modules/cart/includes/customers/ext/transactions/digital-products.php:25
+#: modules/cart/includes/customers/ext/transactions/digital-products.php:31
+msgid "Download"
+msgstr "Скачать"
+
+#: includes/settings/general.php:417
+msgid "Nothing"
+msgstr "Ничего"
+
+#: includes/extensions.php:509
+msgid "Fully compatible plugins from our partners"
+msgstr "Полностью совместимый плагин от наших партнеров"
+
+#: includes/product-settings.php:384
+msgid "Report a Problem"
+msgstr "Заявить о проблеме"
+
+#: includes/product-settings.php:382
+msgid "All bug reports and support tickets are tracked on a daily basis."
+msgstr "Все заявки об ошибках и поддержке отслеживаются ежедневно."
+
+#: includes/product-settings.php:381
+msgid "Do you have a problem?"
+msgstr "У вас проблема?"
+
+#: functions/catalog-admin.php:41
+msgid "Edit Product Listing"
+msgstr "Редактировать Раздел товаров"
+
+#: functions/catalog-admin.php:39
+msgid "Edit %s Listing"
+msgstr "Редактировать %s раздел"
+
+#: functions/functions.php:1074
+msgid "Reset Filters"
+msgstr "Сбросить фильтры"
+
+#: functions/duplicate.php:98
+msgid "here"
+msgstr "здесь"
+
+#: modules/price/price-settings.php:60
+msgid "After Price Text"
+msgstr "Текст после цены"
+
+#: modules/attributes/attributes-settings.php:85
+msgid "Unit"
+msgstr "Единица"
+
+#: modules/attributes/attributes-settings.php:84
+#: modules/attributes/attributes-settings.php:88
+msgid "Attribute value"
+msgstr "Значение атрибута"
+
+#: modules/attributes/attributes-settings.php:82
+#: modules/attributes/attributes-settings.php:87
+msgid "Attribute name"
+msgstr "Название атрибута"
+
+#: functions/duplicate.php:99
+msgid "%1$s successfully duplicated! You can edit your new %2$s %3$s."
+msgstr "%1$s успешно продублирован! Вы можете редактировать свой новый %2$s %3$s."
+
+#: functions/duplicate.php:78
+msgid "Duplicate"
+msgstr "Создать дубликат"
+
+#: includes/settings/custom-names.php:129
+msgid "Description Label"
+msgstr "Ярлык описания"
+
+#: includes/settings/custom-names.php:57
+msgid "All %s"
+msgstr "Все %s"
+
+#: includes/settings/custom-names.php:27
+msgid "%s Description"
+msgstr "%s Описание"
+
+#: includes/settings/custom-names.php:25
+msgid "<< return to %s"
+msgstr "<< вернуться к %s"
+
+#: includes/settings/custom-names.php:23
+msgid "%s Features"
+msgstr "%s Функции"
+
+#: includes/settings/custom-names.php:19
+msgid "%s Price"
+msgstr "%s Цена"
+
+#: includes/customizer.php:37 includes/settings/custom-design.php:210
+msgid "Plain"
+msgstr "Простые"
+
+#: includes/customizer.php:37 includes/settings/custom-design.php:210
+msgid "Formatted"
+msgstr "Отформатированные"
+
+#: includes/customizer.php:33 includes/settings/custom-design.php:210
+msgid "Select template"
+msgstr "Выбрать шаблон"
+
+#: functions/functions.php:1002
+msgid "Sort by Relevance"
+msgstr "Сортировать по релевантности"
+
+#: includes/settings/custom-names.php:180
+msgid "Breadcrumbs Home Label"
+msgstr "Главный ярлык пути перехода по сайту"
+
+#: modules/price/price-settings.php:59
+msgid "Free Product Text"
+msgstr "Текст бесплатного товара"
+
+#: includes/settings/custom-names.php:26 includes/settings/custom-names.php:39
+msgid "Free"
+msgstr "Бесплатный"
+
+#: includes/settings/image-sizes.php:32 includes/settings/image-sizes.php:41
+#: includes/settings/image-sizes.php:50 includes/settings/image-sizes.php:59
+#: includes/settings/image-sizes.php:68 includes/settings/image-sizes.php:147
+msgid "Max Height"
+msgstr "Макс. высота"
+
+#: includes/settings/image-sizes.php:64 includes/settings/image-sizes.php:65
+msgid "Classic List Image"
+msgstr "Изображение классического списка"
+
+#: includes/settings/image-sizes.php:55 includes/settings/image-sizes.php:56
+msgid "Classic Grid Image"
+msgstr "Изображение классической сетки"
+
+#: includes/settings/image-sizes.php:46
+msgid "Modern Grid Image"
+msgstr "Изображение современной сетки"
+
+#: includes/settings/image-sizes.php:30 includes/settings/image-sizes.php:39
+#: includes/settings/image-sizes.php:48 includes/settings/image-sizes.php:57
+#: includes/settings/image-sizes.php:66 includes/settings/image-sizes.php:145
+msgid "Max Width"
+msgstr "Максимальная ширина"
+
+#: includes/settings/image-sizes.php:18
+msgid "Product Catalog Images"
+msgstr "Изображения каталога товаров"
+
+#: includes/settings/general.php:345
+msgid "It seems that this page is already set to be a listing for different elements. Please change the product listing page to make sure that product pages work fine.<br><br>This is probably caused by other plugin being set to show items on the same page."
+msgstr "Эта страница уже установлена в качестве раздела для различных элементов. Пожалуйста измените страницу разделов товара, чтобы страницы товаров работают корректно.<br><br> Возможно, это вызвано настройками другого плагина, отображающего товары на той же странице."
+
+#: includes/activation-config.php:183 modules/attributes/attributes-meta.php:26
+#: modules/attributes/attributes-settings.php:24
+msgid "Attributes"
+msgstr "Аттрибуты"
+
+#: includes/register-product.php:249
+msgid "Details"
+msgstr "Подробнее"
+
+#. Author URI of the plugin
+msgid "https://implecode.com/#cam=in-plugin-urls&key=author-url"
+msgstr "https://implecode.com/#cam=in-plugin-urls&key=author-url"
+
+#. Plugin URI of the plugin
+msgid "https://implecode.com/wordpress/product-catalog/#cam=in-plugin-urls&key=plugin-url"
+msgstr "https://implecode.com/wordpress/product-catalog/#cam=in-plugin-urls&key=plugin-url"
+
+#: includes/settings/tooltips.php:174
+msgid "Hide Forever"
+msgstr "Скрыть навсегда"
+
+#. Author of the plugin
+msgid "impleCode"
+msgstr "impleCode"
+
+#: theme-product_adder_support.php:322
+msgid "Rate Now & Hide Forever"
+msgstr "Оценить сейчас и спрятать навсегда"
+
+#: theme-product_adder_support.php:325
+msgid "Thank you for <a target=\"_blank\" href=\"%s\">your rating</a>! We appreciate your time and input."
+msgstr "Спасибо вам за <a target=\"_blank\" href=\"%s\">вашу оценку</a>! Мы ценим ваше время и вклад."
+
+#: theme-product_adder_support.php:321
+msgid "A <strong>huge thank you</strong> from impleCode and WordPress community in advance!"
+msgstr "Заранее <strong>огромное спасибо</strong> от impleCode и сообщества WordPress!"
+
+#: modules/cart/includes/orders/functions/functions.php:127
+msgid "Add Product"
+msgstr "Добавить товар"
+
+#: theme-product_adder_support.php:147
+msgid "Plugin Support"
+msgstr "Поддержка плагинов"
+
+#: theme-product_adder_support.php:148
+msgid "I know, don't bug me"
+msgstr "Я знаю, не приставайте ко мне"
+
+#: templates/theme-integration.php:294
+msgid "Select Color"
+msgstr "Выбранный цвет"
+
+#: templates/theme-integration.php:292
+msgid "Clear"
+msgstr "Очистить"
+
+#: templates/theme-integration.php:189
+msgid "Restart Advanced Mode Test"
+msgstr "Перезапустить тест расширенного режима"
+
+#: templates/theme-integration.php:188
+msgid "Use the buttons below to try the advanced integration again or go to admin and start adding your products."
+msgstr "Используйте кнопки внизу, чтобы попробовать расширенную интеграцию снова или зайдите в личный кабинет и начните добавлять товары."
+
+#: templates/theme-integration.php:185
+msgid "You are using simple mode now."
+msgstr "Сейчас вы используете простой режим."
+
+#: templates/theme-integration.php:187
+msgid "You can switch between modes at any time in Product Settings."
+msgstr "Вы можете переключаться между режимами в любое время в Настройках товаров."
+
+#: templates/theme-integration.php:169
+msgid "Free Theme Integration Guide"
+msgstr "Бесплатный справочник по интеграции темы"
+
+#: templates/theme-integration.php:168
+msgid "Please make your choice below or switch the theme."
+msgstr "Пожалуйста выберите внизу или переключите тему."
+
+#: templates/theme-integration.php:166
+msgid "Switch the theme."
+msgstr "Переключите тему."
+
+#: templates/theme-integration.php:164
+msgid "Keep using Simple Mode which is still functional."
+msgstr "Продолжить использовать функциональный простой режим."
+
+#: templates/theme-integration.php:163
+msgid "Get the Manual Theme Integration done."
+msgstr "Выполнить интеграцию темы вручную."
+
+#: templates/theme-integration.php:161
+msgid "You Have 3 choices"
+msgstr "У вас три варианта"
+
+#: templates/theme-integration.php:160
+msgid "It seems that Manual Theme Integration is needed in order to use Advanced Mode with your current theme."
+msgstr "Необходима интеграция темы вручную, чтобы использовать расширенный режим с текущей темой."
+
+#: templates/theme-integration.php:176 templates/theme-integration.php:189
+msgid "Go to Admin"
+msgstr "Зайти в панель администрирования"
+
+#: templates/theme-integration.php:101
+msgid "Padding"
+msgstr "Отступ"
+
+#: templates/theme-integration.php:152
+msgid "It's Broken"
+msgstr "Неисправно"
+
+#: templates/theme-integration.php:150
+msgid "It's Fine"
+msgstr "В порядке"
+
+#: templates/theme-integration.php:131
+msgid "Disable Attributes"
+msgstr "Отключить атрибуты"
+
+#: templates/theme-integration.php:128
+msgid "Disable Shipping"
+msgstr "Отключить доставку"
+
+#: templates/theme-integration.php:122
+msgid "Disable Price"
+msgstr "Отключить цены"
+
+#: templates/theme-integration.php:120
+msgid "Disable Image"
+msgstr "Отключить картинки"
+
+#: templates/theme-integration.php:119
+msgid "Disable Name"
+msgstr "Отключить название"
+
+#: templates/theme-integration.php:118
+msgid "Disable breadcrumbs"
+msgstr "Отключить хлебные крошки"
+
+#: templates/theme-integration.php:140
+msgid "Is everything looking fine now?"
+msgstr "Теперь всё выглядит хорошо?"
+
+#: includes/customizer.php:165 templates/theme-integration.php:99
+msgid "Background"
+msgstr "Фон"
+
+#: modules/attributes/attributes-meta.php:347
+#: templates/theme-integration.php:98
+msgid "Width"
+msgstr "Ширина"
+
+#: templates/theme-integration.php:90
+msgid "Make some adjustments if necessary (you can change it at any time later)."
+msgstr "Произвести настройки если необходимо (вы можете поменять их в любой момент)."
+
+#: templates/theme-integration.php:90
+msgid "Advanced Mode is temporary enabled for this page now."
+msgstr "На этой странице временно включен расширенный режим."
+
+#: templates/theme-integration.php:79 templates/theme-integration.php:169
+msgid "Use Simple Mode"
+msgstr "Использовать обычный режим"
+
+#: templates/theme-integration.php:75
+msgid "Start Advanced Mode Test"
+msgstr "Начать тест расширенного режима"
+
+#: templates/theme-integration.php:73
+msgid "Please use the button below to check out how the product page looks in Automatic Advanced Mode."
+msgstr "Пожалуйста, используйте кнопку внизу, чтобы проверить как выглядит страница товаров в автоматическом расширенном режиме.."
+
+#: templates/templates-functions.php:1182
+msgid "Sorry, but nothing matched your search terms. Please try again with some different options or %sreset filters%s."
+msgstr "К сожалению, нет товаров соответствующих вашему поиску. Пожалуйста, попробуйте еще раз с другим запросом или %sпереустановите фильтры%s."
+
+#: functions/catalog-admin.php:59
+msgid "Edit Product"
+msgstr "Изменить товар"
+
+#: includes/widgets/search-widget.php:24
+msgid "A search form for your catalog items."
+msgstr "Форма поиска для товаров каталога."
+
+#: includes/widgets/search-widget.php:21
+msgid "A search form for your %s."
+msgstr "Форма поиска для вашего %s."
+
+#: includes/blocks/widgets.php:81 includes/widgets/search-widget.php:20
+#: includes/widgets/search-widget.php:87
+msgid "%s Search"
+msgstr "%s Искать"
+
+#: includes/widgets/related-products-widget.php:24
+msgid "Shows related catalog items."
+msgstr "Показывает похожие товары каталога."
+
+#: includes/widgets/related-products-widget.php:23
+msgid "Related Catalog Items"
+msgstr "Похожие товары каталога"
+
+#: includes/widgets/related-products-widget.php:21
+msgid "Shows related %s."
+msgstr "Показывает похожие %s."
+
+#: includes/widgets/related-products-widget.php:20
+msgid "Related %s"
+msgstr "Похожие %s"
+
+#: modules/price/widgets/price-filter-widget.php:24
+msgid "Filter items by price."
+msgstr "Сортировать товары по цене."
+
+#: modules/price/widgets/price-filter-widget.php:23
+msgid "Catalog Price Filter"
+msgstr "Фильтр цены каталога"
+
+#: modules/price/widgets/price-filter-widget.php:21
+msgid "Filter %s by price."
+msgstr "Сортировать %s по цене."
+
+#: modules/price/widgets/price-filter-widget.php:20
+msgid "%s Price Filter"
+msgstr "%s фильтр цены"
+
+#: includes/widgets/filter-widgets.php:304
+msgid "Sort catalog items dropdown."
+msgstr "Выпадающее меню сортировки товаров каталога."
+
+#: includes/widgets/filter-widgets.php:303
+msgid "Catalog Sort"
+msgstr "Сортировка каталога"
+
+#: includes/widgets/filter-widgets.php:301
+msgid "Sort %s dropdown."
+msgstr "Сортировка %s выпадающее меню."
+
+#: includes/widgets/filter-widgets.php:300
+msgid "%s Sort"
+msgstr "%s Сортировать"
+
+#: includes/widgets/filter-widgets.php:108
+msgid "Filter items by categories."
+msgstr "Сортировать товары по категориям."
+
+#: includes/widgets/filter-widgets.php:107
+msgid "Catalog Category Filter"
+msgstr "Фильтр категорий каталога"
+
+#: includes/widgets/filter-widgets.php:105
+msgid "Filter %s by categories."
+msgstr "Сортировать %s по категориям."
+
+#: includes/widgets/filter-widgets.php:104
+msgid "%s Category Filter"
+msgstr "%s Фильтр категорий"
+
+#: includes/widgets/filter-widgets.php:24
+msgid "Appears above the product list. Recommended widgets: Catalog Search, Catalog Price Filter, Catalog Sort and Catalog Category Filter."
+msgstr "Появляется над списком товаров. Рекомендованные виджеты: Поиск по каталогу, Фильтр цены каталога, Сортировка каталога и Фильтр категории каталога. "
+
+#: includes/widgets/filter-widgets.php:23
+msgid "Catalog Filters Bar"
+msgstr "Строка фильтров каталога"
+
+#: includes/widgets/filter-widgets.php:21
+msgid "Appears above the product list. Recommended widgets: %1$s Search, %1$s Price Filter, %1$s Sort and %1$s Category Filter."
+msgstr "Появляется над списком товаров. Рекомендованные виджеты: %1$s Поиск, %1$s Фильтр цены, %1$s Сортировать и %1$s Фильтр категории."
+
+#: includes/widgets/filter-widgets.php:20
+msgid "%s Filters Bar"
+msgstr "%s Строка фильтров"
+
+#: includes/blocks/widgets.php:92 includes/widgets/category-widget.php:142
+msgid "Show product counts"
+msgstr "Показать количество товаров  "
+
+#: includes/blocks/widgets.php:93 includes/widgets/category-widget.php:147
+msgid "Show hierarchy"
+msgstr "Отображать иерархию"
+
+#: includes/blocks/widgets.php:91 includes/widgets/category-widget.php:137
+msgid "Display as dropdown"
+msgstr "Отображать как выпадающий список"
+
+#: includes/widgets/category-widget.php:129
+#: includes/widgets/filter-widgets.php:275
+#: includes/widgets/filter-widgets.php:333
+#: includes/widgets/filter-widgets.php:406
+#: includes/widgets/related-products-widget.php:53
+#: includes/widgets/search-widget.php:54
+#: modules/cart/includes/cart-widget.php:86
+#: modules/cart/includes/customers/includes/login-form-widget.php:46
+#: modules/cart/includes/customers/includes/login-url-widget.php:45
+#: modules/price/widgets/price-filter-widget.php:75
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/system.php:335
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: includes/system.php:349
+msgid "Parent Theme Version"
+msgstr "Версия родительской темы"
+
+#: includes/system.php:353
+msgid "Parent Theme Author URL"
+msgstr "URL автора родительской темы"
+
+#: includes/widgets/category-widget.php:60
+msgid "Select Category"
+msgstr "Выберите категорию"
+
+#: includes/widgets/category-widget.php:54
+msgid "Select %s Category"
+msgstr "Выбрать %s Категорию"
+
+#: includes/widgets/category-widget.php:24
+msgid "A list or dropdown of catalog categories"
+msgstr "Список или выпадающее меню категорий каталога"
+
+#: includes/activation-config.php:111 includes/blocks/widgets.php:85
+#: includes/widgets/category-widget.php:23
+msgid "Catalog Categories"
+msgstr "Категории каталога"
+
+#: includes/widgets/category-widget.php:21
+msgid "A list or dropdown of %s categories"
+msgstr "Список или выпадающее менюf %s категорий"
+
+#: includes/system.php:345
+msgid "Parent Theme Name"
+msgstr "Название родительской темы"
+
+#: includes/system.php:361
+msgid "Not Declared"
+msgstr "Не объявлено"
+
+#: includes/system.php:331
+msgid "Author URL"
+msgstr "URL автора"
+
+#: includes/system.php:326
+msgid "is available"
+msgstr "доступно"
+
+#: includes/system.php:321
+msgid "Version"
+msgstr "Версия"
+
+#: includes/blocks/index.php:300 includes/settings/csv.php:212
+#: includes/settings/csv.php:256 includes/system.php:317
+#: modules/cart/includes/variations/variations-meta.php:40
+msgid "Name"
+msgstr "Имя"
+
+#: includes/system.php:309
+msgid "Theme"
+msgstr "Тема"
+
+#: includes/system.php:297
+msgctxt "by author"
+msgid "by %s"
+msgstr "от %s"
+
+#: includes/system.php:241
+msgid "Max Upload Size"
+msgstr "Максимальный размер загружаемого файла"
+
+#: includes/system.php:268
+msgid "Active Plugins"
+msgstr "Активированные плагины"
+
+#: includes/system.php:292
+msgid "Visit plugin homepage"
+msgstr "Посетить домашнюю страницу плагина"
+
+#: includes/system.php:258
+msgid "N/A"
+msgstr "Недоступно"
+
+#: includes/system.php:250
+msgid "Server Locale"
+msgstr "Локаль сервера"
+
+#: includes/system.php:206
+msgid "PHP Version"
+msgstr "Версия PHP"
+
+#: includes/system.php:231
+msgid "MySQL Version"
+msgstr "Версия MySQL"
+
+#: includes/system.php:202
+msgid "Server Info"
+msgstr "Информация о сервере"
+
+#: includes/system.php:211
+msgid "PHP Post Max Size"
+msgstr "PHP post_max_size"
+
+#: includes/system.php:222
+msgid "PHP Time Limit"
+msgstr "PHP max_execution_time"
+
+#: includes/system.php:226
+msgid "PHP Max Input Vars"
+msgstr "PHP max_input_vars"
+
+#: includes/system.php:197
+msgid "Server Environment"
+msgstr "Переменные окружения сервера"
+
+#: includes/system.php:188
+msgid "Language"
+msgstr "Язык"
+
+#: includes/system.php:155
+msgid "WP Version"
+msgstr "Версия Wordpress"
+
+#: includes/system.php:179
+msgid "WP Debug Mode"
+msgstr "WP режим отладки"
+
+#: includes/system.php:168
+msgid "WP Memory Limit"
+msgstr "WP ограничение памяти"
+
+#: includes/system.php:159
+msgid "WP Multisite"
+msgstr "WP режим сети"
+
+#: includes/system.php:134
+msgid "Site URL"
+msgstr "Адрес сайта"
+
+#: includes/system.php:130
+msgid "Home URL"
+msgstr "Домашний URL"
+
+#: includes/system.php:125
+msgid "WordPress Environment"
+msgstr "Окружение WordPress"
+
+#: includes/system.php:114
+msgid "Delete all items and categories on uninstall"
+msgstr "Удалить все товары и категории при удалении"
+
+#: includes/system.php:110
+msgid "Empty Default Filters Bar"
+msgstr "Очистить строку фильтров по умолчанию"
+
+#: includes/system.php:109
+msgid "Make default filters bar empty."
+msgstr "Сделать строку фильтров по умолчанию пустой."
+
+#: includes/system.php:94
+msgid "Reset product settings"
+msgstr "Сбросить настройки товаров"
+
+#: includes/system.php:89
+msgid "impleCode Tools"
+msgstr "простые инструменты"
+
+#: includes/system.php:80 includes/tracking.php:375
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/system.php:80
+msgid "OK"
+msgstr "ОК"
+
+#: includes/system.php:79
+msgid "Default filters bar will become empty."
+msgstr "Строка фильтров по умолчанию станет пустой."
+
+#: includes/system.php:77
+msgid "Filters bar is now empty by default!"
+msgstr "Строка фильтров теперь по умолчанию пуста!"
+
+#: includes/system.php:71
+msgid "All catalog categories will be permanently deleted. Would you like to proceed?"
+msgstr "Все категории каталога будут удалены без возможности восстановления. Вы хотите продолжить?"
+
+#: includes/system.php:69
+msgid "All Catalog Categories successfully deleted!"
+msgstr "Все категории каталога успешно удалены!"
+
+#: includes/system.php:45
+msgid "All items will be permanently deleted. Would you like to proceed?"
+msgstr "Все товары будут удалены без возможности восстановления. Вы хотите продолжить?"
+
+#: includes/system.php:30 includes/system.php:46 includes/system.php:72
+msgid "No"
+msgstr "Нет"
+
+#: includes/system.php:30 includes/system.php:46 includes/system.php:72
+#: templates/shortcode-catalog.php:657
+msgid "Yes"
+msgstr "Да"
+
+#: includes/system.php:29
+msgid "All catalog settings will be reset to defaults. Would you like to proceed?"
+msgstr "Все настройки каталога будут сброшены. Вы хотите продолжить?."
+
+#: includes/system.php:27
+msgid "Catalog Settings successfully reset to default!"
+msgstr "Все настройки каталога успешно сброшены!"
+
+#: includes/system.php:14
+msgid "System Status"
+msgstr "Состояние ситемы"
+
+#: modules/shipping/shipping-settings.php:107
+msgid "Shipping disabled. To enable set minimum 1 shipping option."
+msgstr "Доставка выключена. Для включения установите минимум один вариант доставки."
+
+#: modules/shipping/shipping-settings.php:81
+msgid "Shipping default cost"
+msgstr "Стоимость доставки по умолчанию"
+
+#: modules/shipping/shipping-settings.php:53
+#: modules/shipping/shipping-settings.php:62
+msgid "Shipping Settings"
+msgstr "Настройки доставки"
+
+#: modules/shipping/shipping-settings.php:81
+msgid "Shipping default name"
+msgstr "Название доставки по умолчанию"
+
+#: modules/shipping/shipping-settings.php:71
+#: modules/shipping/shipping-settings.php:75
+msgid "Number of shipping options"
+msgstr "Количество вариантов доставки"
+
+#: includes/settings/general.php:630
+msgid "Sort by Newest"
+msgstr "Сортировать по новинкам"
+
+#: config/const.php:19
+#: modules/cart/includes/orders/includes/digital-order-columns.php:27
+msgid "Product"
+msgstr "Товар"
+
+#: includes/settings/general.php:473
+msgid "sorting"
+msgstr "сортировка"
+
+#: includes/settings/general.php:472
+msgid "shortcode"
+msgstr "шорткод"
+
+#: modules/price/price-settings.php:91
+msgid "Decimal Separator"
+msgstr "Десятичный разделитель"
+
+#: modules/sku/sku-settings.php:36 templates/theme-integration.php:125
+msgid "Disable SKU"
+msgstr "Выключить SKU"
+
+#: modules/price/price-settings.php:89
+msgid "Space between currency & price"
+msgstr "Пробел между валютой и ценой"
+
+#: modules/price/price-settings.php:86
+msgid "After Price"
+msgstr "После цены"
+
+#: modules/price/price-settings.php:85
+msgid "Before Price"
+msgstr "Перед ценой"
+
+#: modules/price/price-settings.php:84
+msgid "Currency position"
+msgstr "Позиция валюты"
+
+#: modules/price/price-settings.php:83
+msgid "Custom Currency Symbol"
+msgstr "Символ валюты"
+
+#: modules/price/price-settings.php:79 modules/price/price-settings.php:159
+msgid "Your currency"
+msgstr "Ваша валюта"
+
+#: modules/price/price-settings.php:75 modules/price/price-settings.php:89
+msgid "Off"
+msgstr "Выкл"
+
+#: modules/price/price-settings.php:90
+msgid "Thousands Separator"
+msgstr "Разделитель разрядов"
+
+#: modules/price/price-settings.php:72
+msgid "Payment and currency"
+msgstr "Настройки оплаты и валюты"
+
+#: includes/settings/general.php:443
+msgid "Breadcrumbs Settings"
+msgstr "Настройки пути перехода по сайту"
+
+#: includes/settings/general.php:437
+msgid "Enable SEO title separator"
+msgstr "Включить разделитель названий SEO"
+
+#: includes/settings/general.php:436
+msgid "Archive SEO Title"
+msgstr "Архив названий SEO"
+
+#: includes/settings/general.php:422
+msgid "SEO Settings"
+msgstr "Настройки SEO"
+
+#: includes/settings/general.php:417
+msgid "Show Related"
+msgstr "Показать похожие"
+
+#: includes/settings/general.php:416
+msgid "Disable Image on Category Page"
+msgstr "Отключить изображение на странице категорий"
+
+#: modules/price/price-settings.php:75 modules/price/price-settings.php:89
+msgid "On"
+msgstr "Вкл"
+
+#: includes/settings/general.php:415
+msgid "URLs"
+msgstr "Ссылки"
+
+#: includes/settings/general.php:415 templates/shortcode-catalog.php:206
+msgid "Template"
+msgstr "Шаблон"
+
+#: includes/settings/general.php:415
+msgid "Categories Display"
+msgstr "Показать категории"
+
+#: includes/settings/custom-names.php:60 includes/settings/custom-names.php:71
+#: includes/settings/general.php:414
+msgid "Subcategories"
+msgstr "Суб категории"
+
+#: includes/settings/general.php:414
+msgid "Category Page shows"
+msgstr "Страница категорий показывает"
+
+#: includes/settings/general.php:410
+msgid "category-name"
+msgstr "название категории"
+
+#: includes/settings/general.php:400
+msgid "Categories Parent URL"
+msgstr "Родительская ссылка категорий"
+
+#: includes/settings/general.php:384
+msgid "Categories Settings"
+msgstr "Настройки категории"
+
+#: includes/settings/general.php:377
+msgid "This is also the default setting for sorting drop-down."
+msgstr "Это также настройка по умолчанию для выпадающего меню сортировки."
+
+#: includes/settings/general.php:374
+msgid "You can also use shortcode with products_limit attribute to set this."
+msgstr "Вы также можете использовать шорткод с атрибутом products_limit, чтобы это установить."
+
+#: includes/activation-config.php:559 includes/settings/general.php:336
+msgid "Catalog Plural Name"
+msgstr "Множественное название каталога"
+
+#: includes/activation-config.php:558 includes/activation-config.php:559
+#: includes/settings/general.php:335 includes/settings/general.php:336
+msgid "Admin panel customisation setting. Change it to what you sell."
+msgstr "Настройка личного кабинета. Измените это на ваши товары."
+
+#: includes/activation-config.php:558 includes/settings/general.php:335
+msgid "Catalog Singular Name"
+msgstr "Единственное название каталога"
+
+#: includes/customizer.php:256
+msgid "Product Catalog"
+msgstr "Каталог товаров"
+
+#: includes/customizer.php:49 includes/settings/general.php:281
+msgid "Disable Product Name"
+msgstr "Отключить наименование товара"
+
+#: includes/settings/general.php:149 includes/settings/general.php:151
+#: includes/settings/general.php:366 includes/settings/general.php:368
+#: templates/theme-integration.php:293
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/customizer.php:195 includes/settings/general.php:279
+#: templates/theme-integration.php:108
+msgid "Right"
+msgstr "Справа"
+
+#: includes/settings/general.php:279 templates/theme-integration.php:108
+msgid "Default Sidebar"
+msgstr "Боковая панель по умолчанию"
+
+#: includes/class-ic-sitewide-bar.php:158 includes/customizer.php:195
+#: includes/settings/general.php:279 templates/theme-integration.php:108
+msgid "Disabled"
+msgstr "Отключить"
+
+#: includes/settings/general.php:277
+msgid "Catalog Container Padding"
+msgstr "Отступ контейнера каталога"
+
+#: includes/settings/general.php:276
+msgid "Catalog Container Background"
+msgstr "Фон контейнера каталога"
+
+#: includes/settings/general.php:275
+msgid "Catalog Container Width"
+msgstr "Ширина контейнера каталога"
+
+#: includes/customizer.php:195 includes/settings/general.php:279
+#: templates/theme-integration.php:108
+msgid "Left"
+msgstr "Слева"
+
+#: includes/settings/general.php:18 includes/settings/general.php:86
+#: includes/settings/general.php:97
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: includes/settings/custom-names.php:163
+msgid "Product listing pages are disabled due to a lack of theme integration.%s"
+msgstr "Стрианица товаров отключена из-за отсутствия темы интеграции. %s"
+
+#: includes/settings/custom-names.php:161
+msgid "Product listing pages are disabled with simple theme integration. See <a href=\"%s\">Theme Integration Guide</a> to enable product listing pages."
+msgstr "В простом режиме интеграции темы страницы разделов товаров выключены. Посмотрите <a href=\"%s\">Справочник интеграции темы</a> чтобы включить страницы разделов товаров."
+
+#: includes/settings/custom-names.php:130
+msgid "Features Label"
+msgstr "Ярлык функций"
+
+#: modules/shipping/shipping-settings.php:172
+msgid "Shipping Label"
+msgstr "Ярлык доставки"
+
+#: modules/sku/sku-settings.php:22
+msgid "SKU Label"
+msgstr "Ярлык количества единиц в наличии"
+
+#: modules/price/price-settings.php:58
+msgid "Price Label"
+msgstr "Ярлык цены"
+
+#: includes/settings/custom-names.php:125
+#: includes/settings/custom-names.php:170
+msgid "Front-end Text"
+msgstr "Текст интерфейса"
+
+#: includes/settings/custom-names.php:63 includes/settings/custom-names.php:74
+msgid "« Previous Page"
+msgstr "« Предыдущая страница"
+
+#: includes/settings/custom-names.php:62 includes/settings/custom-names.php:73
+msgid "Next Page »"
+msgstr "Следующая страница »"
+
+#: includes/settings/custom-names.php:125
+#: includes/settings/custom-names.php:170
+msgid "Front-end Element"
+msgstr "Элемент интерфейса"
+
+#: includes/settings/custom-names.php:85 includes/settings/custom-names.php:122
+#: includes/settings/custom-names.php:156
+msgid "Front-end Labels"
+msgstr "Ярлыки интерфейса"
+
+#: includes/settings/custom-names.php:59 includes/settings/custom-names.php:70
+#: includes/settings/general.php:375
+msgid "Main Categories"
+msgstr "Основные категории"
+
+#: includes/settings/custom-names.php:68
+msgid "All Products"
+msgstr "Все товары"
+
+#: includes/settings/custom-names.php:24 includes/settings/custom-names.php:37
+msgid "See also different:"
+msgstr "Смотрите также:"
+
+#: includes/settings/custom-names.php:20 includes/settings/custom-names.php:33
+msgid "SKU:"
+msgstr "В наличии:"
+
+#: includes/settings/custom-design.php:256
+msgid "product archive title"
+msgstr "название архива товаров"
+
+#: includes/settings/custom-design.php:245
+msgid "Boxes Color"
+msgstr "Цвето боксов"
+
+#: modules/price/price-settings.php:43
+msgid "product archive"
+msgstr "архив товаров"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:252
+#: modules/price/price-settings.php:40
+msgid "Grey"
+msgstr "Серый"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:251
+#: modules/price/price-settings.php:39
+msgid "Blue"
+msgstr "Синий"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:250
+#: modules/price/price-settings.php:38
+msgid "Green"
+msgstr "Зелёный"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:249
+#: modules/price/price-settings.php:37
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:248
+#: modules/price/price-settings.php:36
+msgid "Red"
+msgstr "Красный"
+
+#: includes/customizer.php:116 modules/price/price-settings.php:33
+#: modules/price/price-settings.php:47
+msgid "Price Color"
+msgstr "Цвет цены"
+
+#: modules/price/price-settings.php:30 modules/price/price-settings.php:43
+msgid "single product"
+msgstr "отдельный товар"
+
+#: includes/customizer.php:134 modules/price/price-settings.php:27
+msgid "Small"
+msgstr "Маленький"
+
+#: includes/customizer.php:130 modules/price/price-settings.php:24
+#: modules/price/price-settings.php:46
+msgid "Price Size"
+msgstr "Размер цены"
+
+#: includes/settings/custom-design.php:240
+msgid "Impact"
+msgstr "Влияние"
+
+#: includes/settings/custom-design.php:239
+msgid "Example Effect"
+msgstr "Пример эффекта"
+
+#: includes/settings/custom-design.php:238
+msgid "Value"
+msgstr "Значение"
+
+#: includes/settings/custom-design.php:203
+msgid "The default image will be used on the listing only when unchecked."
+msgstr "Изображение по умолчанию будет использовано в разделе только когда не отмечено галочкой."
+
+#: includes/settings/custom-design.php:200
+msgid "The image will be used only on the listing when unchecked."
+msgstr "Изображение будет использовано только в разделе, если не отмечено галочкой."
+
+#: includes/settings/custom-design.php:237
+msgid "Setting"
+msgstr "Установка"
+
+#: includes/settings/custom-design.php:194
+msgid "Default Product Image"
+msgstr "Изображение товара по-умолчанию"
+
+#: includes/settings/custom-design.php:148
+#: includes/settings/custom-design.php:149
+msgid "The product listing element width will adjust accordingly to your theme content width."
+msgstr "Ширина элемента разделов товаров будет скорректирована соответственно ширине содержимого вашей темы."
+
+#: includes/settings/custom-design.php:138
+#: templates/templates-functions.php:380
+msgid "Classic Grid"
+msgstr "Классическая сетка"
+
+#: includes/settings/custom-design.php:124
+#: templates/templates-functions.php:379
+msgid "Classic List"
+msgstr "Классический список"
+
+#: includes/settings/custom-design.php:113
+#: includes/settings/custom-design.php:115
+#: includes/settings/custom-design.php:147
+#: includes/settings/custom-design.php:149
+msgid "Per row"
+msgstr "В ряду"
+
+#: modules/attributes/attributes-settings.php:242
+#: modules/attributes/attributes-settings.php:244
+msgid "Show Attributes"
+msgstr "Показать атрибуты"
+
+#: includes/settings/custom-design.php:104
+#: templates/templates-functions.php:378
+msgid "Modern Grid"
+msgstr "Современная сетка"
+
+#: includes/settings/custom-design.php:197
+msgid "Product Gallery"
+msgstr "Галерея товара"
+
+#: includes/settings/custom-design.php:109
+#: includes/settings/custom-design.php:129
+#: includes/settings/custom-design.php:143 modules/sku/sku-settings.php:33
+msgid "Additional Settings"
+msgstr "Дополнительные настройки"
+
+#: includes/settings/custom-design.php:75
+#: includes/settings/custom-design.php:192
+#: includes/settings/custom-design.php:231
+msgid "Design Settings"
+msgstr "Настройки дизайна"
+
+#: includes/settings/custom-design.php:56
+msgid "gallery"
+msgstr "галерея"
+
+#: includes/settings/custom-design.php:46
+#: includes/settings/custom-design.php:233
+msgid "Design Schemes"
+msgstr "Схемы дизайна"
+
+#: includes/activation-config.php:114 includes/activation-config.php:132
+#: includes/settings/custom-design.php:18
+msgid "Catalog Design"
+msgstr "Дизайн каталога"
+
+#: includes/register-product.php:248 includes/settings/csv.php:218
+#: includes/settings/csv.php:262
+msgid "Long Description"
+msgstr "Описание"
+
+#: includes/activation-config.php:186 includes/register-product.php:247
+#: includes/settings/csv.php:217 includes/settings/csv.php:261
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: modules/cart/includes/orders/includes/register-digital-orders.php:252
+msgid "Product Price"
+msgstr "Цена товара"
+
+#: includes/activation-config.php:182
+msgid "Product Image"
+msgstr "Изображение товара"
+
+#: includes/settings/csv.php:211 includes/settings/csv.php:255
+msgid "Image URL"
+msgstr "Ссылка на изображение"
+
+#: includes/settings/csv.php:164
+msgid "Permission error. Please check WordPress uploads %sfolder permissions%s."
+msgstr "Ошибка разрешения. Полуйста, проверьте загрузки WordPress %sразрешения папки%s."
+
+#: includes/settings/csv.php:150
+msgid "Number of product fields and number of fields in CSV file do not match!"
+msgstr "Количество полей товаров и количество полей в файле CSV не совпадают!"
+
+#: includes/settings/csv.php:138
+msgid "%s products successfully added to the catalog"
+msgstr "%s товаров успешно добавлены в каталог"
+
+#: includes/settings/csv.php:99
+msgid "Download CSV Template"
+msgstr "Загрузить шаблон CSV"
+
+#: includes/settings/csv.php:99
+msgid "The first row should contain the field names. %s should be used as the CSV separator."
+msgstr "Первый ряд должен содержать названия полей. %s должно быть использовано, как разделитель CSV."
+
+#: includes/settings/csv.php:87
+msgid "Please upload only CSV files."
+msgstr "Пожалуйста загрузите только файл CSV."
+
+#: includes/settings/csv.php:84
+msgid "There was a problem with your upload."
+msgstr "С вашей загрузкой возникла проблема."
+
+#: includes/settings/csv.php:64
+msgid "import"
+msgstr "импорт"
+
+#: includes/settings/csv.php:47
+msgid "Export Products"
+msgstr "Экспорт товаров"
+
+#: includes/settings/csv.php:51
+msgid "Download CSV"
+msgstr "Загрузка CSV"
+
+#: includes/settings/csv.php:41
+msgid "Simple CSV"
+msgstr "Простой CSV"
+
+#: modules/attributes/attributes-settings.php:134
+msgid "attributes"
+msgstr "атрибуты"
+
+#: modules/attributes/attributes-settings.php:111
+msgid "Attributes disabled. To enable set minimum 1 attribute."
+msgstr "Атрибуты выключены. Чтобы включить, установите как минимум 1 атрибут. "
+
+#: includes/settings/custom-design.php:82
+#: includes/settings/custom-design.php:180
+#: includes/settings/custom-design.php:262
+#: includes/settings/custom-names.php:139
+#: includes/settings/custom-names.php:186 includes/settings/general.php:465
+#: modules/attributes/attributes-settings.php:128 modules/button/index.php:94
+#: modules/cart/includes/customers/includes/transactions/customer-panel-settings.php:57
+#: modules/cart/includes/shopping-settings.php:181
+#: modules/cart/includes/variations/product-variations-settings.php:145
+#: modules/shipping/shipping-settings.php:103
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: modules/attributes/attributes-settings.php:68
+#: modules/cart/includes/variations/product-variations-settings.php:58
+#: modules/shipping/shipping-settings.php:71
+msgid "Update"
+msgstr "Обновить"
+
+#: modules/attributes/attributes-settings.php:48
+#: modules/attributes/attributes-settings.php:58
+msgid "Attributes Settings"
+msgstr "Настройки атрибутов"
+
+#: includes/register-product.php:550
+#: modules/cart/includes/orders/includes/register-digital-orders.php:666
+msgid "M j, Y @ G:i"
+msgstr "d.m.Y в H:i"
+
+#: includes/register-product.php:548
+#: modules/cart/includes/orders/includes/register-digital-orders.php:664
+msgid "Page saved."
+msgstr "Страница сохранена."
+
+#: includes/register-product.php:545
+msgid "%s updated."
+msgstr "%s обновлен."
+
+#: includes/register-product.php:544
+#: modules/cart/includes/orders/includes/register-digital-orders.php:660
+msgid "Custom field deleted."
+msgstr "Произвольные поля удалены."
+
+#: includes/register-product.php:543
+#: modules/cart/includes/orders/includes/register-digital-orders.php:659
+msgid "Custom field updated."
+msgstr "Произвольные поля обновлены."
+
+#: includes/register-product.php:115 includes/register-product.php:499
+msgid "%s Image"
+msgstr "%s Изображение"
+
+#: modules/attributes/attributes-meta.php:43
+msgid "See <a target=\"_blank\" href=\"%s\">docs</a>."
+msgstr "Смотреть <a target=\"_blank\" href=\"%s\">документы</a>."
+
+#: modules/price/price-meta.php:32
+msgid "Please provide a correct price format according to your currency settings. Example price format: %s or %s"
+msgstr "Пожалуйста, укажите корректный формат цены, в соответствии с вашей валютой. Примеры формата цены: %s или %s"
+
+#: modules/price/price-meta.php:31
+msgid "you can change it in product settings"
+msgstr "вы можете изменить это в настройках товара"
+
+#: modules/price/price-meta.php:31
+msgid "Example price format: %s or %s"
+msgstr "Пример формата цены: %s или %s"
+
+#: modules/attributes/attributes-meta.php:24
+msgid "%s Attributes"
+msgstr "%s Атрибуты"
+
+#: includes/settings/custom-names.php:22 modules/shipping/shipping-meta.php:25
+msgid "%s Shipping"
+msgstr "%s Доставка"
+
+#: includes/register-product.php:245
+msgid "%s Details"
+msgstr "%s Подробнее"
+
+#: includes/register-product.php:244
+msgid "%s description"
+msgstr "%s описание"
+
+#: includes/register-product.php:243
+msgid "%s Short Description"
+msgstr "%s Краткое описание"
+
+#: includes/register-product.php:128
+msgid "Nothing found in trash"
+msgstr "В корзине ничего не найдено"
+
+#: includes/register-product.php:127
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: includes/register-product.php:126
+msgid "Search Items"
+msgstr "Поиск товара"
+
+#: includes/register-product.php:125
+msgid "View Item"
+msgstr "Посмотреть товар"
+
+#: includes/register-product.php:123
+msgid "Edit Item"
+msgstr "Редактировать товар"
+
+#: includes/register-product.php:122 includes/register-product.php:124
+msgid "Add New Item"
+msgstr "Добавить новый товар"
+
+#: includes/register-product.php:121
+msgid "Add New"
+msgstr "Добавить товар"
+
+#: includes/register-product.php:112
+msgid "No %s found in trash"
+msgstr "В корзине не найдено %s"
+
+#: includes/register-product.php:111
+msgid "No %s found"
+msgstr "%s не найден"
+
+#: includes/register-product.php:110
+msgid "Search %s"
+msgstr "Поиск %s"
+
+#: includes/register-product.php:109
+msgid "View %s"
+msgstr "Посмотреть %s"
+
+#: includes/register-product.php:107
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: includes/register-product.php:105 includes/register-product.php:106
+#: includes/register-product.php:108
+msgid "Add New %s"
+msgstr "Добавить новый %s"
+
+#: includes/product-settings.php:359
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+#: includes/product-settings.php:351
+msgid "Rate this Plugin!"
+msgstr "Оценить этот плагин!"
+
+#: includes/product-settings.php:336
+msgid "Click the button to visit impleCode website"
+msgstr "Щелкните, чтобы перейти на сайт impleCode"
+
+#: includes/product-settings.php:335
+msgid "See Now"
+msgstr "Посмотрите теперь"
+
+#: includes/product-settings.php:333
+msgid "Did you know?"
+msgstr "Вы знали?"
+
+#: includes/product-settings.php:324
+msgid "See in Docs"
+msgstr "Смотрите в документах"
+
+#: includes/product-settings.php:323
+msgid "See %s configuration tips in the impleCode documentation"
+msgstr "Смотрите%s советы по конфигурации в документации impleCode"
+
+#: includes/product-settings.php:321
+msgid "%s Settings in Docs"
+msgstr "%s Настройки в документах"
+
+#: includes/blocks/widgets.php:88 includes/product-settings.php:16
+#: includes/product-settings.php:54 includes/welcome/welcome-screen.php:46
+#: theme-product_adder_support.php:306
+msgid "Settings"
+msgstr "Настройки"
+
+#: functions/functions.php:864 includes/blocks/index.php:243
+#: includes/blocks/index.php:280 includes/product-columns.php:114
+#: includes/settings/custom-names.php:58 includes/settings/custom-names.php:69
+msgid "All"
+msgstr "Все"
+
+#: includes/product-columns.php:28
+msgid "Product Categories"
+msgstr "Категории товара"
+
+#: includes/settings/csv.php:214 includes/settings/csv.php:258
+#: modules/cart/includes/cart-form.php:222 modules/price/price-meta.php:31
+#: modules/price/price-meta.php:64 modules/price/price-meta.php:116
+#: modules/price/price-settings.php:75
+#: modules/price/widgets/price-filter-widget.php:50
+#: modules/price/widgets/price-filter-widget.php:51
+msgid "Price"
+msgstr "Цена"
+
+#: modules/cart/includes/orders/includes/digital-order-columns.php:30
+#: modules/cart/includes/orders/includes/register-digital-orders.php:137
+msgid "Date"
+msgstr "Дата"
+
+#: includes/product-columns.php:25
+#: modules/cart/includes/orders/includes/register-digital-orders.php:242
+msgid "Product Name"
+msgstr "Название товара"
+
+#: includes/product-category-columns.php:120 includes/product-columns.php:29
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: includes/product-category-columns.php:117 includes/product-columns.php:21
+#: modules/cart/includes/orders/includes/digital-order-columns.php:25
+msgid "ID"
+msgstr "ID"
+
+#: includes/product-category-columns.php:116 includes/product-columns.php:23
+#: includes/register-product.php:131 includes/register-product.php:501
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/product-category-columns.php:21
+msgid "category"
+msgstr "категория"
+
+#: includes/product-categories.php:54
+msgid "New Category"
+msgstr "Новая категория"
+
+#: includes/product-categories.php:53
+msgid "Add New Category"
+msgstr "Добавить категорию"
+
+#: includes/product-categories.php:52
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: includes/product-categories.php:51
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+#: includes/product-categories.php:50
+msgid "Parent Category:"
+msgstr "Главная категория:"
+
+#: includes/product-categories.php:49
+msgid "Parent Category"
+msgstr "Главная категория"
+
+#: includes/product-categories.php:48
+msgid "All Categories"
+msgstr "Все категории"
+
+#: includes/product-categories.php:47
+msgid "Search Categories"
+msgstr "Поиск по категориям"
+
+#: includes/product-categories.php:46 includes/widgets/filter-widgets.php:256
+msgid "Category"
+msgstr "Категория"
+
+#: includes/product-categories.php:40
+msgid "New %s Category"
+msgstr "Новая %s Категория"
+
+#: includes/activation-config.php:181 includes/product-categories.php:45
+#: includes/product-categories.php:55 includes/product-columns.php:232
+#: includes/settings/csv.php:216 includes/settings/csv.php:260
+#: includes/settings/general.php:417
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/product-categories.php:39
+msgid "Add New %s Category"
+msgstr "Добавить новую %s категорию"
+
+#: includes/product-categories.php:38
+msgid "Update %s Category"
+msgstr "Обновить %s категорию"
+
+#: includes/product-categories.php:36
+msgid "Parent %s Category:"
+msgstr "Родительская %s Категория:"
+
+#: includes/product-categories.php:37
+msgid "Edit %s Category"
+msgstr "Изменить %s категорию"
+
+#: includes/product-categories.php:35
+msgid "Parent %s Category"
+msgstr "Поиск %s категории"
+
+#: includes/product-categories.php:34
+msgid "All %s Categories"
+msgstr "Все категории %s"
+
+#: includes/product-categories.php:33
+msgid "Search %s Categories"
+msgstr "Поиск категории %s"
+
+#: includes/product-categories.php:32
+msgid "%s Category"
+msgstr "Категория %s"
+
+#: includes/blocks/widgets.php:82 includes/product-categories.php:31
+#: includes/product-categories.php:41 includes/widgets/category-widget.php:20
+msgid "%s Categories"
+msgstr "Категории %s"
+
+#: includes/extensions.php:888
+msgid "Check out extensions bundles"
+msgstr "Проверьте расширение пачки"
+
+#: includes/extensions.php:888
+msgid "Do you need multiple extensions?"
+msgstr "Нужны еще расширения?"
+
+#: includes/extensions.php:693
+msgid "You don't have permission to install and activate extensions."
+msgstr "У вас нет разрешения устанавливать и активировать расширения."
+
+#: includes/extensions.php:687
+msgid "You need to provide the license key to activate the extension. Get yours <a href=\"%s\">here</a>."
+msgstr "Вам необходимо предоставить лицензионный ключ, чтобы активировать расширение. Получите ключ <a href=\"%s\">здесь</a>."
+
+#: includes/extensions.php:680
+msgid "The supplied license key is not valid for this extension! Upgrade it <a href=\"%s\">here</a>."
+msgstr "Указанный лицензионный ключ неверен для этого расширения! Обновить ключ <a href=\"%s\">здесь</a>."
+
+#: includes/extensions.php:674
+msgid "This is not a valid license key! Get it <a href=\"%s\">here</a>."
+msgstr "Это не действующий лицензионный ключ! Получить ключ <a href=\"%s\">здесь</a>."
+
+#: includes/extensions.php:546 includes/extensions.php:606
+msgid "Installed Extension"
+msgstr "Установленное Расширение"
+
+#: includes/extensions.php:543 includes/extensions.php:604
+msgid "Active Extension"
+msgstr "Активное Расширение"
+
+#: includes/extensions.php:534 includes/extensions.php:595
+#: includes/extensions.php:631
+msgid "Click for more"
+msgstr "Подробнее"
+
+#: includes/extensions.php:529 includes/extensions.php:590
+#: includes/extensions.php:626
+msgid "Ready to Install"
+msgstr "Готов к установке"
+
+#: includes/extensions.php:526 includes/extensions.php:584
+#: includes/extensions.php:623
+msgid "Advanced Mode Required"
+msgstr "Требуется расширенный режим"
+
+#: includes/extensions.php:249
+msgid "The installation process takes less than 10 seconds."
+msgstr "Процесс установки занимает менее 10 секунд."
+
+#: includes/extensions.php:118 includes/extensions.php:157
+#: includes/extensions.php:199
+msgid "Click on the extension to see full features list."
+msgstr "Нажмите на кнопку расширения, чтобы увидеть полный список возможностей."
+
+#: includes/extensions.php:117 includes/extensions.php:156
+#: includes/extensions.php:198
+msgid "Some extensions give even more features when combined with another one."
+msgstr "Некоторые расширения дают еще больше возможностей в сочетании."
+
+#: includes/extensions.php:116 includes/extensions.php:155
+#: includes/extensions.php:197
+msgid "All extensions are designed to work with each other smoothly."
+msgstr "Все расширения предназначены для работы друг с другом плавно."
+
+#: includes/extensions.php:115 includes/extensions.php:154
+#: includes/extensions.php:196 includes/extensions.php:248
+msgid "Did you Know?"
+msgstr "Вы знали?"
+
+#: includes/activation-config.php:123 includes/extensions.php:851
+#: includes/welcome/welcome-screen.php:48
+msgid "Help"
+msgstr "Помощь"
+
+#: includes/extensions.php:39
+msgid "Extensions for %s"
+msgstr "Расширения для %s"
+
+#: includes/extensions.php:16
+msgid "Extensions"
+msgstr "Расширения"
+
+#: functions/support.php:89
+msgid "Theme Integration"
+msgstr "Интеграция темы"
+
+#: functions/support.php:64
+msgid "Premium Features:"
+msgstr "Премиум функции:"
+
+#: includes/extensions.php:27
+msgid "Installation"
+msgstr "Установка"
+
+#: functions/support.php:38
+msgid "impleCode Support"
+msgstr "Поддержка impleCode"
+
+#: templates/templates-functions.php:1176
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Простите, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте поискать что нибудь другое."
+
+#: functions/functions.php:1099
+msgid "Product Filters Bar has no widgets"
+msgstr "В строке фильтра товаров нет виджетов"
+
+#: functions/functions.php:776 functions/support.php:18
+msgid "Support"
+msgstr "Поддержка"
+
+#: functions/functions.php:289 templates/templates-functions.php:636
+msgid "Search Results for:"
+msgstr "Результаты поиска для:"
+
+#: includes/settings/custom-names.php:64 includes/settings/custom-names.php:75
+msgid "Home"
+msgstr "Главная"
+
+#: includes/settings/custom-names.php:35
+#: modules/cart/includes/cart-form.php:263
+#: modules/cart/includes/cart/cart-shipping.php:434
+#: modules/cart/includes/orders/includes/save-order.php:94
+#: modules/shipping/shipping-functions.php:97
+#: modules/shipping/shipping-meta.php:27
+#: modules/shipping/shipping-settings.php:24
+msgid "Shipping"
+msgstr "Доставка"
+
+#: includes/settings/settings-functions.php:525
+msgid "View Page"
+msgstr "Посмотреть страницу"
+
+#: includes/settings/settings-functions.php:522
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions/functions.php:93
+msgid "Reset image"
+msgstr "Переустановить изображение"
+
+#: functions/content-functions.php:92 functions/functions.php:487
+#: includes/blocks/widgets.php:84 includes/widgets/search-widget.php:23
+#: includes/widgets/search-widget.php:89
+msgid "Product Search"
+msgstr "Поиск товара"
+
+#: includes/settings/settings-functions.php:515
+msgid "Custom URL"
+msgstr "Произвольный URL"
+
+#: functions/activation.php:135
+msgid "lbs"
+msgstr "фунт"
+
+#: functions/content-functions.php:89 includes/settings/search.php:58
+msgid "Search"
+msgstr "Поиск"
+
+#: functions/base.php:31
+msgid "Enter item name here"
+msgstr "Введите название товара"
+
+#: functions/base.php:29
+msgid "Enter %s name here"
+msgstr "Введите %s название здесь"
+
+#: functions/activation.php:166
+msgid "How to switch to Advanced Mode?"
+msgstr "Как переключиться в расширенный режим?"
+
+#: functions/activation.php:164
+msgid "Simple Theme Integration Mode"
+msgstr "Простой режим интеграции темы"
+
+#: functions/activation.php:159
+msgid "Advanced Theme Integration Mode"
+msgstr "Расширенный режим интеграции темы"
+
+#: functions/activation.php:131 includes/customizer.php:134
+#: modules/price/price-settings.php:26
+msgid "Big"
+msgstr "Большой"
+
+#: functions/activation.php:130
+msgid "White"
+msgstr "Белый"
+
+#: functions/activation.php:129 modules/attributes/attributes-meta.php:331
+#: modules/attributes/attributes-meta.php:343
+msgid "Weight"
+msgstr "Вес"
+
+#: functions/activation.php:128 includes/widgets/filter-widgets.php:387
+#: modules/attributes/attributes-meta.php:296
+#: modules/attributes/attributes-meta.php:332
+#: modules/attributes/attributes-meta.php:346
+msgid "Size"
+msgstr "Размер"
+
+#: functions/activation.php:127
+msgid "Color"
+msgstr "Цвет"
+
+#: functions/activation.php:118
+msgid "Sample Product Page"
+msgstr "Образец страницы товара"
+
+#: config/const.php:22 includes/activation-config.php:172
+#: includes/settings/custom-names.php:72
+#: modules/cart/includes/customers/includes/transactions/transactions-client-list.php:23
+msgid "Products"
+msgstr "Товары"
+
+#: ecommerce-product-catalog.php:76 ecommerce-product-catalog.php:88
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
